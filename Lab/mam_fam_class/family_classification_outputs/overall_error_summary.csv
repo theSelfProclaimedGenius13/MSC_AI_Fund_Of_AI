@@ -1,0 +1,16 @@
+validation,model,total_predictions,correct_predictions,misclassified_predictions,accuracy,error_percentage,FN,FP,FP_FN_match
+Validation A - Random,Decision Tree,6947,6551,396,0.9429969771124226,5.7003022887577375,396,396,True
+Validation A - Random,Linear SVM,6947,6893,54,0.9922268605153304,0.7773139484669641,54,54,True
+Validation A - Random,Logistic Regression,6947,6783,164,0.9763926874910033,2.360731250899669,164,164,True
+Validation A - Random,Multinomial Naive Bayes,6947,6219,728,0.8952065639844538,10.479343601554628,728,728,True
+Validation A - Random,Random Forest,6947,6813,134,0.9807110983158198,1.928890168418022,134,134,True
+Validation B.1 - Duplicate Grouped,Decision Tree,7136,6584,552,0.922645739910314,7.73542600896861,552,552,True
+Validation B.1 - Duplicate Grouped,Linear SVM,7136,7074,62,0.9913116591928252,0.8688340807174889,62,62,True
+Validation B.1 - Duplicate Grouped,Logistic Regression,7136,6929,207,0.9709921524663677,2.900784753363229,207,207,True
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,7136,6434,702,0.9016255605381166,9.837443946188342,702,702,True
+Validation B.1 - Duplicate Grouped,Random Forest,7136,6944,192,0.9730941704035875,2.690582959641256,192,192,True
+Validation B.2 - Species Grouped,Decision Tree,10061,4312,5749,0.42858562767120567,57.14143723287943,5749,5749,True
+Validation B.2 - Species Grouped,Linear SVM,10061,9541,520,0.9483152768114501,5.168472318854985,520,520,True
+Validation B.2 - Species Grouped,Logistic Regression,10061,9050,1011,0.8995129708776464,10.048702912235365,1011,1011,True
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,10061,7574,2487,0.7528078719809164,24.71921280190836,2487,2487,True
+Validation B.2 - Species Grouped,Random Forest,10061,8222,1839,0.8172149885697246,18.27850114302753,1839,1839,True

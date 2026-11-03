@@ -1,0 +1,4 @@
+validation,total_predictions,errors,error_percentage
+Validation A - Random,6947,54,0.7773139484669641
+Validation B.1 - Duplicate Grouped,7136,62,0.8688340807174889
+Validation B.2 - Species Grouped,10061,520,5.168472318854985

@@ -1,0 +1,7 @@
+validation,characteristic,chi_square_statistic,degrees_of_freedom,p_value,cramers_v,minimum_expected_frequency,expected_frequency_below_5,test_type,test_name
+Validation A - Random,sequence_length_group,93.93014439822967,2,4.011698644564169e-21,0.1162796847183389,0.8939110407370088,1,Chi-square,sequence_length_group
+Validation A - Random,gc_content_group,52.14199507814154,2,4.758933444512182e-12,0.0866353576728296,0.7229019720742766,1,Chi-square,gc_content_group
+Validation B.1 - Duplicate Grouped,sequence_length_group,30.09368995263595,2,2.9190279722348916e-07,0.06493970335502001,0.9991591928251121,1,Chi-square,sequence_length_group
+Validation B.1 - Duplicate Grouped,gc_content_group,107.43468952157252,2,4.6865535944944846e-24,0.12270007999290468,0.7124439461883408,1,Chi-square,gc_content_group
+Validation B.2 - Species Grouped,sequence_length_group,120.33967611431818,2,7.38875650597237e-27,0.10936638184568383,8.011132094225227,0,Chi-square,sequence_length_group
+Validation B.2 - Species Grouped,gc_content_group,17.963550538327496,2,0.00012567953433800788,0.04225474795936643,4.186462578272537,1,Chi-square,gc_content_group

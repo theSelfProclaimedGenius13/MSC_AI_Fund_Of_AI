@@ -1,0 +1,13 @@
+validation,Validation A - Random,Validation A - Random,Validation A - Random,Validation A - Random,Validation A - Random,Validation B.1 - Duplicate Grouped,Validation B.1 - Duplicate Grouped,Validation B.1 - Duplicate Grouped,Validation B.1 - Duplicate Grouped,Validation B.1 - Duplicate Grouped,Validation B.2 - Species Grouped,Validation B.2 - Species Grouped,Validation B.2 - Species Grouped,Validation B.2 - Species Grouped,Validation B.2 - Species Grouped
+model,Decision Tree,Linear SVM,Logistic Regression,Multinomial Naive Bayes,Random Forest,Decision Tree,Linear SVM,Logistic Regression,Multinomial Naive Bayes,Random Forest,Decision Tree,Linear SVM,Logistic Regression,Multinomial Naive Bayes,Random Forest
+family,,,,,,,,,,,,,,,
+Bovidae,15,2,9,2,3,26,2,3,1,5,194,22,8,14,97
+Cricetidae,28,1,5,38,1,56,1,7,40,9,491,50,43,107,78
+Dasyuridae,2,0,7,0,0,7,1,0,16,2,1,2,9,369,2
+Hipposideridae,11,2,2,52,4,6,14,11,13,6,171,11,13,92,68
+Muridae,24,5,13,25,4,32,5,24,46,24,790,28,234,103,162
+Phyllostomidae,24,2,7,13,2,52,1,21,13,1,605,10,27,90,32
+Pteropodidae,4,0,0,13,2,18,0,1,12,0,123,7,15,139,26
+Sciuridae,11,6,15,66,0,16,6,13,59,1,105,34,92,96,5
+Tachyglossidae,0,0,0,0,0,0,0,0,0,0,415,0,0,0,0
+Vespertilionidae,48,1,6,225,18,67,1,26,209,20,894,90,236,799,812

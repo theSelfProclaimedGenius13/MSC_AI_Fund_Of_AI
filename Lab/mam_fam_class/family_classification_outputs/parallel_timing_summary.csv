@@ -1,0 +1,4 @@
+validation,parallel_wall_time_sec,sum_individual_fit_predict_sec
+Validation A - Random,402.8410528,805.876792
+Validation B.1 - Duplicate Grouped,562.0381255,967.0345279000001
+Validation B.2 - Species Grouped,428.11964579999994,615.3493292999997

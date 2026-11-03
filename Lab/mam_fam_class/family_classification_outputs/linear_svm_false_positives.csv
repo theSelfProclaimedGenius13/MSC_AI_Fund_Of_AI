@@ -1,0 +1,112 @@
+validation,model,family,FP
+Validation A - Random,Linear SVM,Atelidae,1
+Validation A - Random,Linear SVM,Bovidae,2
+Validation A - Random,Linear SVM,Calomyscidae,1
+Validation A - Random,Linear SVM,Canidae,1
+Validation A - Random,Linear SVM,Cebidae,1
+Validation A - Random,Linear SVM,Cercopithecidae,2
+Validation A - Random,Linear SVM,Chrysochloridae,1
+Validation A - Random,Linear SVM,Cricetidae,1
+Validation A - Random,Linear SVM,Didelphidae,1
+Validation A - Random,Linear SVM,Echimyidae,3
+Validation A - Random,Linear SVM,Erinaceidae,2
+Validation A - Random,Linear SVM,Geomyidae,1
+Validation A - Random,Linear SVM,Gliridae,1
+Validation A - Random,Linear SVM,Heteromyidae,3
+Validation A - Random,Linear SVM,Hipposideridae,2
+Validation A - Random,Linear SVM,Iniidae,1
+Validation A - Random,Linear SVM,Lorisidae,1
+Validation A - Random,Linear SVM,Macropodidae,1
+Validation A - Random,Linear SVM,Macroscelididae,1
+Validation A - Random,Linear SVM,Megaladapidae,1
+Validation A - Random,Linear SVM,Muridae,5
+Validation A - Random,Linear SVM,Mustelidae,1
+Validation A - Random,Linear SVM,Noctilionidae,1
+Validation A - Random,Linear SVM,Peramelidae,1
+Validation A - Random,Linear SVM,Petauridae,1
+Validation A - Random,Linear SVM,Phyllostomidae,2
+Validation A - Random,Linear SVM,Pitheciidae,1
+Validation A - Random,Linear SVM,Rhinocerotidae,2
+Validation A - Random,Linear SVM,Rhinolophidae,2
+Validation A - Random,Linear SVM,Sciuridae,6
+Validation A - Random,Linear SVM,Spalacidae,1
+Validation A - Random,Linear SVM,Talpidae,1
+Validation A - Random,Linear SVM,Thryonomyidae,1
+Validation A - Random,Linear SVM,Vespertilionidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Bovidae,2
+Validation B.1 - Duplicate Grouped,Linear SVM,Cebidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Cercopithecidae,3
+Validation B.1 - Duplicate Grouped,Linear SVM,Cervidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Cheirogaleidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Chrysochloridae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Cricetidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Dasyuridae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Emballonuridae,2
+Validation B.1 - Duplicate Grouped,Linear SVM,Erinaceidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Galagidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Geomyidae,3
+Validation B.1 - Duplicate Grouped,Linear SVM,Herpestidae,4
+Validation B.1 - Duplicate Grouped,Linear SVM,Heteromyidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Hipposideridae,14
+Validation B.1 - Duplicate Grouped,Linear SVM,Lemuridae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Leporidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Macropodidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Molossidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Muridae,5
+Validation B.1 - Duplicate Grouped,Linear SVM,Mustelidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Peramelidae,2
+Validation B.1 - Duplicate Grouped,Linear SVM,Phyllostomidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Platacanthomyidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Rhinocerotidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Rhinolophidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Sciuridae,6
+Validation B.1 - Duplicate Grouped,Linear SVM,Thryonomyidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Tupaiidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Vespertilionidae,1
+Validation B.2 - Species Grouped,Linear SVM,Anomaluridae,2
+Validation B.2 - Species Grouped,Linear SVM,Aotidae,11
+Validation B.2 - Species Grouped,Linear SVM,Bovidae,22
+Validation B.2 - Species Grouped,Linear SVM,Caenolestidae,1
+Validation B.2 - Species Grouped,Linear SVM,Canidae,1
+Validation B.2 - Species Grouped,Linear SVM,Cercopithecidae,15
+Validation B.2 - Species Grouped,Linear SVM,Cervidae,2
+Validation B.2 - Species Grouped,Linear SVM,Cricetidae,50
+Validation B.2 - Species Grouped,Linear SVM,Dasyuridae,2
+Validation B.2 - Species Grouped,Linear SVM,Didelphidae,1
+Validation B.2 - Species Grouped,Linear SVM,Dipodidae,10
+Validation B.2 - Species Grouped,Linear SVM,Echimyidae,9
+Validation B.2 - Species Grouped,Linear SVM,Emballonuridae,62
+Validation B.2 - Species Grouped,Linear SVM,Equidae,1
+Validation B.2 - Species Grouped,Linear SVM,Erethizontidae,5
+Validation B.2 - Species Grouped,Linear SVM,Erinaceidae,2
+Validation B.2 - Species Grouped,Linear SVM,Eschrichtiidae,1
+Validation B.2 - Species Grouped,Linear SVM,Geomyidae,5
+Validation B.2 - Species Grouped,Linear SVM,Heteromyidae,29
+Validation B.2 - Species Grouped,Linear SVM,Hippopotamidae,1
+Validation B.2 - Species Grouped,Linear SVM,Hipposideridae,11
+Validation B.2 - Species Grouped,Linear SVM,Hystricidae,5
+Validation B.2 - Species Grouped,Linear SVM,Indridae,8
+Validation B.2 - Species Grouped,Linear SVM,Iniidae,1
+Validation B.2 - Species Grouped,Linear SVM,Lemuridae,1
+Validation B.2 - Species Grouped,Linear SVM,Leporidae,4
+Validation B.2 - Species Grouped,Linear SVM,Macropodidae,5
+Validation B.2 - Species Grouped,Linear SVM,Macroscelididae,1
+Validation B.2 - Species Grouped,Linear SVM,Molossidae,13
+Validation B.2 - Species Grouped,Linear SVM,Muridae,28
+Validation B.2 - Species Grouped,Linear SVM,Mustelidae,6
+Validation B.2 - Species Grouped,Linear SVM,Nesomyidae,2
+Validation B.2 - Species Grouped,Linear SVM,Notoryctidae,1
+Validation B.2 - Species Grouped,Linear SVM,Ochotonidae,3
+Validation B.2 - Species Grouped,Linear SVM,Petauridae,12
+Validation B.2 - Species Grouped,Linear SVM,Phyllostomidae,10
+Validation B.2 - Species Grouped,Linear SVM,Platacanthomyidae,1
+Validation B.2 - Species Grouped,Linear SVM,Procyonidae,9
+Validation B.2 - Species Grouped,Linear SVM,Pteropodidae,7
+Validation B.2 - Species Grouped,Linear SVM,Rhinolophidae,29
+Validation B.2 - Species Grouped,Linear SVM,Sciuridae,34
+Validation B.2 - Species Grouped,Linear SVM,Soricidae,3
+Validation B.2 - Species Grouped,Linear SVM,Talpidae,1
+Validation B.2 - Species Grouped,Linear SVM,Tapiridae,1
+Validation B.2 - Species Grouped,Linear SVM,Thryonomyidae,1
+Validation B.2 - Species Grouped,Linear SVM,Vespertilionidae,90
+Validation B.2 - Species Grouped,Linear SVM,Viverridae,1

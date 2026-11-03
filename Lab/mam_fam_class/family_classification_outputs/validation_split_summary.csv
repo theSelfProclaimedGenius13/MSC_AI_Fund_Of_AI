@@ -1,0 +1,4 @@
+validation,train_records,test_records,train_families,test_families,families_not_testable,actual_test_fraction
+Validation A - Random,27741,6947,140,126,14,0.20027098708487084
+Validation B.1 - Duplicate Grouped,27552,7136,140,126,14,0.20571955719557194
+Validation B.2 - Species Grouped,24627,10061,140,104,36,0.2900426660516605

@@ -1,0 +1,362 @@
+validation,model,family,actual_support,predicted_support,TP,FN,FP,precision,recall,F1,FN_rate,negative_support,FP_rate,FN_rate_percentage,FP_rate_percentage
+Validation A - Random,Linear SVM,Acrobatidae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Anomaluridae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Antilocapridae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Cheirogaleidae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Chrysochloridae,1,1,0,1,1,0.0,0.0,0.0,1.0,6946,0.00014396775122372588,100.0,0.014396775122372588
+Validation A - Random,Linear SVM,Dugongidae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Erethizontidae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Microbiotheriidae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Petauridae,1,1,0,1,1,0.0,0.0,0.0,1.0,6946,0.00014396775122372588,100.0,0.014396775122372588
+Validation A - Random,Linear SVM,Phalangeridae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Phascolarctidae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Tragulidae,1,0,0,1,0,,0.0,0.0,1.0,6946,0.0,100.0,0.0
+Validation A - Random,Linear SVM,Dasypodidae,5,2,2,3,0,1.0,0.4,0.5714285714285715,0.6,6942,0.0,60.0,0.0
+Validation A - Random,Linear SVM,Pitheciidae,2,2,1,1,1,0.5,0.5,0.5,0.5,6945,0.00014398848092152627,50.0,0.014398848092152626
+Validation A - Random,Linear SVM,Monodontidae,3,2,2,1,0,1.0,0.6666666666666666,0.8,0.3333333333333333,6944,0.0,33.33333333333333,0.0
+Validation A - Random,Linear SVM,Erinaceidae,4,5,3,1,2,0.6,0.75,0.6666666666666665,0.25,6943,0.00028805991646262423,25.0,0.02880599164626242
+Validation A - Random,Linear SVM,Talpidae,4,4,3,1,1,0.75,0.75,0.75,0.25,6943,0.00014402995823131211,25.0,0.01440299582313121
+Validation A - Random,Linear SVM,Dasyuridae,5,4,4,1,0,1.0,0.8,0.888888888888889,0.2,6942,0.0,20.0,0.0
+Validation A - Random,Linear SVM,Procyonidae,5,4,4,1,0,1.0,0.8,0.888888888888889,0.2,6942,0.0,20.0,0.0
+Validation A - Random,Linear SVM,Octodontidae,9,8,8,1,0,1.0,0.8888888888888888,0.9411764705882353,0.1111111111111111,6938,0.0,11.11111111111111,0.0
+Validation A - Random,Linear SVM,Spalacidae,19,19,18,1,1,0.9473684210526315,0.9473684210526315,0.9473684210526315,0.05263157894736842,6928,0.0001443418013856813,5.263157894736842,0.014434180138568129
+Validation A - Random,Linear SVM,Sciuridae,66,69,63,3,6,0.9130434782608695,0.9545454545454546,0.9333333333333332,0.045454545454545456,6881,0.0008719662839703532,4.545454545454546,0.08719662839703532
+Validation A - Random,Linear SVM,Ochotonidae,34,33,33,1,0,1.0,0.9705882352941176,0.9850746268656716,0.029411764705882353,6913,0.0,2.941176470588235,0.0
+Validation A - Random,Linear SVM,Dipodidae,50,49,49,1,0,1.0,0.98,0.98989898989899,0.02,6897,0.0,2.0,0.0
+Validation A - Random,Linear SVM,Echimyidae,100,101,98,2,3,0.9702970297029703,0.98,0.9751243781094527,0.02,6847,0.00043814809405579085,2.0,0.04381480940557909
+Validation A - Random,Linear SVM,Emballonuridae,82,81,81,1,0,1.0,0.9878048780487805,0.9938650306748467,0.012195121951219513,6865,0.0,1.2195121951219512,0.0
+Validation A - Random,Linear SVM,Heteromyidae,204,205,202,2,3,0.9853658536585366,0.9901960784313726,0.9877750611246944,0.00980392156862745,6743,0.0004449058282663503,0.9803921568627451,0.04449058282663503
+Validation A - Random,Linear SVM,Cricetidae,878,871,870,8,1,0.9988518943742825,0.9908883826879271,0.9948542024013723,0.009111617312072893,6069,0.00016477179106936892,0.9111617312072893,0.01647717910693689
+Validation A - Random,Linear SVM,Soricidae,334,332,332,2,0,1.0,0.9940119760479041,0.996996996996997,0.005988023952095809,6613,0.0,0.5988023952095809,0.0
+Validation A - Random,Linear SVM,Muridae,569,571,566,3,5,0.9912434325744308,0.9947275922671354,0.9929824561403507,0.005272407732864675,6378,0.0007839448102853559,0.5272407732864675,0.07839448102853559
+Validation A - Random,Linear SVM,Vespertilionidae,790,787,786,4,1,0.9987293519695044,0.9949367088607595,0.9968294229549778,0.005063291139240506,6157,0.00016241676140977748,0.5063291139240507,0.016241676140977747
+Validation A - Random,Linear SVM,Bovidae,257,258,256,1,2,0.9922480620155039,0.9961089494163424,0.9941747572815534,0.0038910505836575876,6690,0.00029895366218236175,0.38910505836575876,0.029895366218236175
+Validation A - Random,Linear SVM,Phyllostomidae,1491,1490,1488,3,2,0.9986577181208054,0.9979879275653923,0.9983227104998322,0.002012072434607646,5456,0.00036656891495601173,0.2012072434607646,0.036656891495601175
+Validation A - Random,Linear SVM,Ailuridae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Aotidae,2,2,2,0,0,1.0,1.0,1.0,0.0,6945,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Atelidae,2,3,2,0,1,0.6666666666666666,1.0,0.8,0.0,6945,0.00014398848092152627,0.0,0.014398848092152626
+Validation A - Random,Linear SVM,Balaenidae,2,2,2,0,0,1.0,1.0,1.0,0.0,6945,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Balaenopteridae,35,35,35,0,0,1.0,1.0,1.0,0.0,6912,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Bathyergidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Bradypodidae,5,5,5,0,0,1.0,1.0,1.0,0.0,6942,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Burramyidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Caenolestidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Calomyscidae,11,12,11,0,1,0.9166666666666666,1.0,0.9565217391304348,0.0,6936,0.0001441753171856978,0.0,0.01441753171856978
+Validation A - Random,Linear SVM,Camelidae,8,8,8,0,0,1.0,1.0,1.0,0.0,6939,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Canidae,171,172,171,0,1,0.9941860465116279,1.0,0.9970845481049563,0.0,6776,0.00014757969303423848,0.0,0.014757969303423848
+Validation A - Random,Linear SVM,Castoridae,3,3,3,0,0,1.0,1.0,1.0,0.0,6944,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Caviidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Cebidae,9,10,9,0,1,0.9,1.0,0.9473684210526316,0.0,6938,0.00014413375612568464,0.0,0.014413375612568464
+Validation A - Random,Linear SVM,Cercopithecidae,70,72,70,0,2,0.9722222222222222,1.0,0.9859154929577464,0.0,6877,0.0002908244874218409,0.0,0.029082448742184092
+Validation A - Random,Linear SVM,Cervidae,119,119,119,0,0,1.0,1.0,1.0,0.0,6828,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Ctenomyidae,27,27,27,0,0,1.0,1.0,1.0,0.0,6920,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Cuniculidae,5,5,5,0,0,1.0,1.0,1.0,0.0,6942,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Cyclopedidae,4,4,4,0,0,1.0,1.0,1.0,0.0,6943,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Cynocephalidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Dasyproctidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Daubentoniidae,3,3,3,0,0,1.0,1.0,1.0,0.0,6944,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Delphinidae,76,76,76,0,0,1.0,1.0,1.0,0.0,6871,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Didelphidae,94,95,94,0,1,0.9894736842105263,1.0,0.9947089947089947,0.0,6853,0.00014592149423610097,0.0,0.014592149423610097
+Validation A - Random,Linear SVM,Elephantidae,7,7,7,0,0,1.0,1.0,1.0,0.0,6940,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Equidae,97,97,97,0,0,1.0,1.0,1.0,0.0,6850,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Eschrichtiidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Felidae,26,26,26,0,0,1.0,1.0,1.0,0.0,6921,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Furipteridae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Galagidae,2,2,2,0,0,1.0,1.0,1.0,0.0,6945,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Geomyidae,48,49,48,0,1,0.9795918367346939,1.0,0.9896907216494846,0.0,6899,0.00014494854326714017,0.0,0.014494854326714017
+Validation A - Random,Linear SVM,Giraffidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Gliridae,1,2,1,0,1,0.5,1.0,0.6666666666666666,0.0,6946,0.00014396775122372588,0.0,0.014396775122372588
+Validation A - Random,Linear SVM,Herpestidae,6,6,6,0,0,1.0,1.0,1.0,0.0,6941,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Hippopotamidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Hipposideridae,105,107,105,0,2,0.9813084112149533,1.0,0.9905660377358491,0.0,6842,0.00029231218941829873,0.0,0.029231218941829874
+Validation A - Random,Linear SVM,Hominidae,33,33,33,0,0,1.0,1.0,1.0,0.0,6914,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Hyaenidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Hylobatidae,12,12,12,0,0,1.0,1.0,1.0,0.0,6935,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Hystricidae,4,4,4,0,0,1.0,1.0,1.0,0.0,6943,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Indridae,7,7,7,0,0,1.0,1.0,1.0,0.0,6940,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Iniidae,41,42,41,0,1,0.9761904761904762,1.0,0.9879518072289156,0.0,6906,0.0001448016217781639,0.0,0.014480162177816391
+Validation A - Random,Linear SVM,Lemuridae,11,11,11,0,0,1.0,1.0,1.0,0.0,6936,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Lepilemuridae,3,3,3,0,0,1.0,1.0,1.0,0.0,6944,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Leporidae,42,42,42,0,0,1.0,1.0,1.0,0.0,6905,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Lorisidae,5,6,5,0,1,0.8333333333333334,1.0,0.9090909090909091,0.0,6942,0.00014405070584845865,0.0,0.014405070584845865
+Validation A - Random,Linear SVM,Macropodidae,6,7,6,0,1,0.8571428571428571,1.0,0.923076923076923,0.0,6941,0.00014407145944388418,0.0,0.014407145944388418
+Validation A - Random,Linear SVM,Macroscelididae,4,5,4,0,1,0.8,1.0,0.888888888888889,0.0,6943,0.00014402995823131211,0.0,0.01440299582313121
+Validation A - Random,Linear SVM,Manidae,10,10,10,0,0,1.0,1.0,1.0,0.0,6937,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Megadermatidae,10,10,10,0,0,1.0,1.0,1.0,0.0,6937,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Megalonychidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Mephitidae,17,17,17,0,0,1.0,1.0,1.0,0.0,6930,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Molossidae,116,116,116,0,0,1.0,1.0,1.0,0.0,6831,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Mormoopidae,160,160,160,0,0,1.0,1.0,1.0,0.0,6787,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Moschidae,5,5,5,0,0,1.0,1.0,1.0,0.0,6942,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Mustelidae,33,34,33,0,1,0.9705882352941176,1.0,0.9850746268656716,0.0,6914,0.0001446340757882557,0.0,0.01446340757882557
+Validation A - Random,Linear SVM,Myrmecobiidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Myrmecophagidae,2,2,2,0,0,1.0,1.0,1.0,0.0,6945,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Nandiniidae,3,3,3,0,0,1.0,1.0,1.0,0.0,6944,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Natalidae,3,3,3,0,0,1.0,1.0,1.0,0.0,6944,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Neobalaenidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Nesomyidae,8,8,8,0,0,1.0,1.0,1.0,0.0,6939,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Noctilionidae,31,32,31,0,1,0.96875,1.0,0.9841269841269841,0.0,6916,0.00014459224985540774,0.0,0.014459224985540774
+Validation A - Random,Linear SVM,Nycteridae,3,3,3,0,0,1.0,1.0,1.0,0.0,6944,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Odobenidae,7,7,7,0,0,1.0,1.0,1.0,0.0,6940,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Orycteropodidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Otariidae,4,4,4,0,0,1.0,1.0,1.0,0.0,6943,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Peramelidae,1,2,1,0,1,0.5,1.0,0.6666666666666666,0.0,6946,0.00014396775122372588,0.0,0.014396775122372588
+Validation A - Random,Linear SVM,Phocidae,18,18,18,0,0,1.0,1.0,1.0,0.0,6929,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Phocoenidae,9,9,9,0,0,1.0,1.0,1.0,0.0,6938,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Physeteridae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Platacanthomyidae,4,4,4,0,0,1.0,1.0,1.0,0.0,6943,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Potoroidae,3,3,3,0,0,1.0,1.0,1.0,0.0,6944,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Procaviidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Pteropodidae,153,153,153,0,0,1.0,1.0,1.0,0.0,6794,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Rhinocerotidae,3,5,3,0,2,0.6,1.0,0.7499999999999999,0.0,6944,0.0002880184331797235,0.0,0.02880184331797235
+Validation A - Random,Linear SVM,Rhinolophidae,148,150,148,0,2,0.9866666666666667,1.0,0.9932885906040269,0.0,6799,0.00029416090601559053,0.0,0.02941609060155905
+Validation A - Random,Linear SVM,Suidae,47,47,47,0,0,1.0,1.0,1.0,0.0,6900,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Tachyglossidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Tapiridae,4,4,4,0,0,1.0,1.0,1.0,0.0,6943,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Tarsiidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Tayassuidae,2,2,2,0,0,1.0,1.0,1.0,0.0,6945,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Tenrecidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Thryonomyidae,3,4,3,0,1,0.75,1.0,0.8571428571428571,0.0,6944,0.00014400921658986175,0.0,0.014400921658986175
+Validation A - Random,Linear SVM,Thylacinidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Thyropteridae,6,6,6,0,0,1.0,1.0,1.0,0.0,6941,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Trichechidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Tupaiidae,15,15,15,0,0,1.0,1.0,1.0,0.0,6932,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Ursidae,44,44,44,0,0,1.0,1.0,1.0,0.0,6903,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Viverridae,9,9,9,0,0,1.0,1.0,1.0,0.0,6938,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Vombatidae,1,1,1,0,0,1.0,1.0,1.0,0.0,6946,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Ziphiidae,13,13,13,0,0,1.0,1.0,1.0,0.0,6934,0.0,0.0,0.0
+Validation A - Random,Linear SVM,Megaladapidae,0,1,0,0,1,0.0,,0.0,,6947,0.00014394702749388226,,0.014394702749388226
+Validation B.1 - Duplicate Grouped,Linear SVM,Acrobatidae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Anomaluridae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Caviidae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Cheirogaleidae,1,1,0,1,1,0.0,0.0,0.0,1.0,7135,0.0001401541695865452,100.0,0.01401541695865452
+Validation B.1 - Duplicate Grouped,Linear SVM,Chrysochloridae,1,1,0,1,1,0.0,0.0,0.0,1.0,7135,0.0001401541695865452,100.0,0.01401541695865452
+Validation B.1 - Duplicate Grouped,Linear SVM,Dugongidae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Gliridae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Microbiotheriidae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Orycteropodidae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Petauridae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Phalangeridae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Phascolarctidae,2,0,0,2,0,,0.0,0.0,1.0,7134,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Physeteridae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Tarsiidae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Tragulidae,1,0,0,1,0,,0.0,0.0,1.0,7135,0.0,100.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Macroscelididae,4,2,2,2,0,1.0,0.5,0.6666666666666666,0.5,7132,0.0,50.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Platacanthomyidae,4,4,3,1,1,0.75,0.75,0.75,0.25,7132,0.00014021312394840157,25.0,0.014021312394840156
+Validation B.1 - Duplicate Grouped,Linear SVM,Talpidae,4,3,3,1,0,1.0,0.75,0.8571428571428571,0.25,7132,0.0,25.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Moschidae,5,4,4,1,0,1.0,0.8,0.888888888888889,0.2,7131,0.0,20.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Procyonidae,5,4,4,1,0,1.0,0.8,0.888888888888889,0.2,7131,0.0,20.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Thryonomyidae,6,6,5,1,1,0.8333333333333334,0.8333333333333334,0.8333333333333334,0.16666666666666666,7130,0.00014025245441795232,16.666666666666664,0.014025245441795233
+Validation B.1 - Duplicate Grouped,Linear SVM,Emballonuridae,87,79,77,10,2,0.9746835443037974,0.8850574712643678,0.927710843373494,0.11494252873563218,7049,0.0002837281883955171,11.494252873563218,0.028372818839551707
+Validation B.1 - Duplicate Grouped,Linear SVM,Phocoenidae,10,9,9,1,0,1.0,0.9,0.9473684210526316,0.1,7126,0.0,10.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Sciuridae,66,67,61,5,6,0.9104477611940298,0.9242424242424242,0.9172932330827067,0.07575757575757576,7070,0.0008486562942008486,7.575757575757576,0.08486562942008487
+Validation B.1 - Duplicate Grouped,Linear SVM,Dipodidae,50,47,47,3,0,1.0,0.94,0.9690721649484536,0.06,7086,0.0,6.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Spalacidae,19,18,18,1,0,1.0,0.9473684210526315,0.972972972972973,0.05263157894736842,7117,0.0,5.263157894736842,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Ctenomyidae,27,26,26,1,0,1.0,0.9629629629629629,0.9811320754716981,0.037037037037037035,7109,0.0,3.7037037037037033,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Hominidae,33,32,32,1,0,1.0,0.9696969696969697,0.9846153846153847,0.030303030303030304,7103,0.0,3.0303030303030303,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Pteropodidae,153,151,151,2,0,1.0,0.9869281045751634,0.993421052631579,0.013071895424836602,6983,0.0,1.3071895424836601,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Echimyidae,101,100,100,1,0,1.0,0.9900990099009901,0.9950248756218906,0.009900990099009901,7035,0.0,0.9900990099009901,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Cricetidae,879,872,871,8,1,0.9988532110091743,0.9908987485779295,0.9948600799543118,0.009101251422070534,6257,0.000159821000479463,0.9101251422070534,0.0159821000479463
+Validation B.1 - Duplicate Grouped,Linear SVM,Heteromyidae,205,205,204,1,1,0.9951219512195122,0.9951219512195122,0.9951219512195122,0.004878048780487805,6931,0.00014427932477276007,0.4878048780487805,0.014427932477276006
+Validation B.1 - Duplicate Grouped,Linear SVM,Vespertilionidae,790,789,788,2,1,0.9987325728770595,0.9974683544303797,0.9981000633312223,0.002531645569620253,6346,0.0001575795776867318,0.25316455696202533,0.01575795776867318
+Validation B.1 - Duplicate Grouped,Linear SVM,Muridae,572,576,571,1,5,0.9913194444444444,0.9982517482517482,0.9947735191637631,0.0017482517482517483,6564,0.0007617306520414382,0.17482517482517482,0.07617306520414381
+Validation B.1 - Duplicate Grouped,Linear SVM,Phyllostomidae,1492,1491,1490,2,1,0.9993293091884641,0.9986595174262735,0.9989943010392223,0.0013404825737265416,5644,0.00017717930545712261,0.13404825737265416,0.01771793054571226
+Validation B.1 - Duplicate Grouped,Linear SVM,Ailuridae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Antilocapridae,2,2,2,0,0,1.0,1.0,1.0,0.0,7134,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Aotidae,2,2,2,0,0,1.0,1.0,1.0,0.0,7134,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Atelidae,2,2,2,0,0,1.0,1.0,1.0,0.0,7134,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Balaenidae,3,3,3,0,0,1.0,1.0,1.0,0.0,7133,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Balaenopteridae,61,61,61,0,0,1.0,1.0,1.0,0.0,7075,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Bathyergidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Bovidae,257,259,257,0,2,0.9922779922779923,1.0,0.9961240310077519,0.0,6879,0.00029073993312981537,0.0,0.029073993312981536
+Validation B.1 - Duplicate Grouped,Linear SVM,Bradypodidae,5,5,5,0,0,1.0,1.0,1.0,0.0,7131,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Burramyidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Caenolestidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Calomyscidae,11,11,11,0,0,1.0,1.0,1.0,0.0,7125,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Camelidae,12,12,12,0,0,1.0,1.0,1.0,0.0,7124,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Canidae,174,174,174,0,0,1.0,1.0,1.0,0.0,6962,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Castoridae,3,3,3,0,0,1.0,1.0,1.0,0.0,7133,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Cebidae,9,10,9,0,1,0.9,1.0,0.9473684210526316,0.0,7127,0.00014031149151115475,0.0,0.014031149151115476
+Validation B.1 - Duplicate Grouped,Linear SVM,Cercopithecidae,70,73,70,0,3,0.958904109589041,1.0,0.9790209790209791,0.0,7066,0.00042456835550523637,0.0,0.04245683555052364
+Validation B.1 - Duplicate Grouped,Linear SVM,Cervidae,127,128,127,0,1,0.9921875,1.0,0.996078431372549,0.0,7009,0.00014267370523612499,0.0,0.014267370523612499
+Validation B.1 - Duplicate Grouped,Linear SVM,Cuniculidae,6,6,6,0,0,1.0,1.0,1.0,0.0,7130,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Cyclopedidae,5,5,5,0,0,1.0,1.0,1.0,0.0,7131,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Cynocephalidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Dasypodidae,5,5,5,0,0,1.0,1.0,1.0,0.0,7131,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Dasyproctidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Dasyuridae,12,13,12,0,1,0.9230769230769231,1.0,0.9600000000000001,0.0,7124,0.00014037057832678272,0.0,0.014037057832678272
+Validation B.1 - Duplicate Grouped,Linear SVM,Daubentoniidae,3,3,3,0,0,1.0,1.0,1.0,0.0,7133,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Delphinidae,77,77,77,0,0,1.0,1.0,1.0,0.0,7059,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Didelphidae,94,94,94,0,0,1.0,1.0,1.0,0.0,7042,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Elephantidae,17,17,17,0,0,1.0,1.0,1.0,0.0,7119,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Equidae,97,97,97,0,0,1.0,1.0,1.0,0.0,7039,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Erethizontidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Erinaceidae,4,5,4,0,1,0.8,1.0,0.888888888888889,0.0,7132,0.00014021312394840157,0.0,0.014021312394840156
+Validation B.1 - Duplicate Grouped,Linear SVM,Eschrichtiidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Felidae,26,26,26,0,0,1.0,1.0,1.0,0.0,7110,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Furipteridae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Galagidae,2,3,2,0,1,0.6666666666666666,1.0,0.8,0.0,7134,0.00014017381553125876,0.0,0.014017381553125876
+Validation B.1 - Duplicate Grouped,Linear SVM,Geomyidae,48,51,48,0,3,0.9411764705882353,1.0,0.9696969696969697,0.0,7088,0.00042325056433408577,0.0,0.04232505643340858
+Validation B.1 - Duplicate Grouped,Linear SVM,Giraffidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Herpestidae,13,17,13,0,4,0.7647058823529411,1.0,0.8666666666666666,0.0,7123,0.0005615611399691141,0.0,0.056156113996911415
+Validation B.1 - Duplicate Grouped,Linear SVM,Hippopotamidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Hipposideridae,105,119,105,0,14,0.8823529411764706,1.0,0.9375,0.0,7031,0.0019911819086900866,0.0,0.19911819086900867
+Validation B.1 - Duplicate Grouped,Linear SVM,Hyaenidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Hylobatidae,12,12,12,0,0,1.0,1.0,1.0,0.0,7124,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Hystricidae,4,4,4,0,0,1.0,1.0,1.0,0.0,7132,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Indridae,7,7,7,0,0,1.0,1.0,1.0,0.0,7129,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Iniidae,75,75,75,0,0,1.0,1.0,1.0,0.0,7061,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Lemuridae,11,12,11,0,1,0.9166666666666666,1.0,0.9565217391304348,0.0,7125,0.00014035087719298245,0.0,0.014035087719298244
+Validation B.1 - Duplicate Grouped,Linear SVM,Lepilemuridae,4,4,4,0,0,1.0,1.0,1.0,0.0,7132,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Leporidae,43,44,43,0,1,0.9772727272727273,1.0,0.9885057471264368,0.0,7093,0.00014098406880022558,0.0,0.014098406880022559
+Validation B.1 - Duplicate Grouped,Linear SVM,Lorisidae,10,10,10,0,0,1.0,1.0,1.0,0.0,7126,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Macropodidae,6,7,6,0,1,0.8571428571428571,1.0,0.923076923076923,0.0,7130,0.00014025245441795232,0.0,0.014025245441795233
+Validation B.1 - Duplicate Grouped,Linear SVM,Manidae,10,10,10,0,0,1.0,1.0,1.0,0.0,7126,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Megadermatidae,11,11,11,0,0,1.0,1.0,1.0,0.0,7125,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Megalonychidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Mephitidae,17,17,17,0,0,1.0,1.0,1.0,0.0,7119,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Molossidae,116,117,116,0,1,0.9914529914529915,1.0,0.9957081545064378,0.0,7020,0.00014245014245014244,0.0,0.014245014245014244
+Validation B.1 - Duplicate Grouped,Linear SVM,Monodontidae,7,7,7,0,0,1.0,1.0,1.0,0.0,7129,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Mormoopidae,198,198,198,0,0,1.0,1.0,1.0,0.0,6938,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Mustelidae,33,34,33,0,1,0.9705882352941176,1.0,0.9850746268656716,0.0,7103,0.00014078558355624384,0.0,0.014078558355624384
+Validation B.1 - Duplicate Grouped,Linear SVM,Myrmecobiidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Myrmecophagidae,2,2,2,0,0,1.0,1.0,1.0,0.0,7134,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Nandiniidae,5,5,5,0,0,1.0,1.0,1.0,0.0,7131,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Natalidae,3,3,3,0,0,1.0,1.0,1.0,0.0,7133,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Neobalaenidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Nesomyidae,8,8,8,0,0,1.0,1.0,1.0,0.0,7128,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Noctilionidae,31,31,31,0,0,1.0,1.0,1.0,0.0,7105,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Nycteridae,3,3,3,0,0,1.0,1.0,1.0,0.0,7133,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Ochotonidae,34,34,34,0,0,1.0,1.0,1.0,0.0,7102,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Octodontidae,10,10,10,0,0,1.0,1.0,1.0,0.0,7126,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Odobenidae,8,8,8,0,0,1.0,1.0,1.0,0.0,7128,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Otariidae,4,4,4,0,0,1.0,1.0,1.0,0.0,7132,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Peramelidae,1,3,1,0,2,0.3333333333333333,1.0,0.5,0.0,7135,0.0002803083391730904,0.0,0.02803083391730904
+Validation B.1 - Duplicate Grouped,Linear SVM,Phocidae,18,18,18,0,0,1.0,1.0,1.0,0.0,7118,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Pitheciidae,2,2,2,0,0,1.0,1.0,1.0,0.0,7134,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Potoroidae,3,3,3,0,0,1.0,1.0,1.0,0.0,7133,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Procaviidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Rhinocerotidae,3,4,3,0,1,0.75,1.0,0.8571428571428571,0.0,7133,0.00014019346698443852,0.0,0.014019346698443852
+Validation B.1 - Duplicate Grouped,Linear SVM,Rhinolophidae,148,149,148,0,1,0.9932885906040269,1.0,0.9966329966329966,0.0,6988,0.00014310246136233542,0.0,0.014310246136233542
+Validation B.1 - Duplicate Grouped,Linear SVM,Soricidae,334,334,334,0,0,1.0,1.0,1.0,0.0,6802,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Suidae,55,55,55,0,0,1.0,1.0,1.0,0.0,7081,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Tachyglossidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Tapiridae,5,5,5,0,0,1.0,1.0,1.0,0.0,7131,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Tayassuidae,2,2,2,0,0,1.0,1.0,1.0,0.0,7134,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Tenrecidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Thylacinidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Thyropteridae,8,8,8,0,0,1.0,1.0,1.0,0.0,7128,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Trichechidae,2,2,2,0,0,1.0,1.0,1.0,0.0,7134,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Tupaiidae,17,18,17,0,1,0.9444444444444444,1.0,0.9714285714285714,0.0,7119,0.00014046916701783958,0.0,0.014046916701783959
+Validation B.1 - Duplicate Grouped,Linear SVM,Ursidae,44,44,44,0,0,1.0,1.0,1.0,0.0,7092,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Viverridae,9,9,9,0,0,1.0,1.0,1.0,0.0,7127,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Vombatidae,1,1,1,0,0,1.0,1.0,1.0,0.0,7135,0.0,0.0,0.0
+Validation B.1 - Duplicate Grouped,Linear SVM,Ziphiidae,13,13,13,0,0,1.0,1.0,1.0,0.0,7123,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Acrobatidae,1,0,0,1,0,,0.0,0.0,1.0,10060,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Burramyidae,2,0,0,2,0,,0.0,0.0,1.0,10059,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Castoridae,9,0,0,9,0,,0.0,0.0,1.0,10052,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Cheirogaleidae,1,0,0,1,0,,0.0,0.0,1.0,10060,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Chrysochloridae,1,0,0,1,0,,0.0,0.0,1.0,10060,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Giraffidae,1,0,0,1,0,,0.0,0.0,1.0,10060,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Gliridae,1,0,0,1,0,,0.0,0.0,1.0,10060,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Herpestidae,10,0,0,10,0,,0.0,0.0,1.0,10051,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Macroscelididae,5,1,0,5,1,0.0,0.0,0.0,1.0,10056,9.94431185361973e-05,100.0,0.00994431185361973
+Validation B.2 - Species Grouped,Linear SVM,Peramelidae,1,0,0,1,0,,0.0,0.0,1.0,10060,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Petauridae,1,12,0,1,12,0.0,0.0,0.0,1.0,10060,0.0011928429423459245,100.0,0.11928429423459246
+Validation B.2 - Species Grouped,Linear SVM,Phalangeridae,1,0,0,1,0,,0.0,0.0,1.0,10060,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Tragulidae,2,0,0,2,0,,0.0,0.0,1.0,10059,0.0,100.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Spalacidae,19,1,1,18,0,1.0,0.05263157894736842,0.1,0.9473684210526315,10042,0.0,94.73684210526315,0.0
+Validation B.2 - Species Grouped,Linear SVM,Megadermatidae,16,1,1,15,0,1.0,0.0625,0.11764705882352941,0.9375,10045,0.0,93.75,0.0
+Validation B.2 - Species Grouped,Linear SVM,Potoroidae,13,1,1,12,0,1.0,0.07692307692307693,0.14285714285714288,0.9230769230769231,10048,0.0,92.3076923076923,0.0
+Validation B.2 - Species Grouped,Linear SVM,Talpidae,12,2,1,11,1,0.5,0.08333333333333333,0.14285714285714285,0.9166666666666666,10049,9.95123892924669e-05,91.66666666666666,0.009951238929246691
+Validation B.2 - Species Grouped,Linear SVM,Lepilemuridae,11,1,1,10,0,1.0,0.09090909090909091,0.16666666666666669,0.9090909090909091,10050,0.0,90.9090909090909,0.0
+Validation B.2 - Species Grouped,Linear SVM,Thyropteridae,25,4,4,21,0,1.0,0.16,0.2758620689655173,0.84,10036,0.0,84.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Octodontidae,34,6,6,28,0,1.0,0.17647058823529413,0.3,0.8235294117647058,10027,0.0,82.35294117647058,0.0
+Validation B.2 - Species Grouped,Linear SVM,Ziphiidae,30,9,9,21,0,1.0,0.3,0.4615384615384615,0.7,10031,0.0,70.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Procaviidae,3,1,1,2,0,1.0,0.3333333333333333,0.5,0.6666666666666666,10058,0.0,66.66666666666666,0.0
+Validation B.2 - Species Grouped,Linear SVM,Moschidae,24,10,10,14,0,1.0,0.4166666666666667,0.5882352941176471,0.5833333333333334,10037,0.0,58.333333333333336,0.0
+Validation B.2 - Species Grouped,Linear SVM,Emballonuridae,101,109,47,54,62,0.43119266055045874,0.46534653465346537,0.44761904761904764,0.5346534653465347,9960,0.006224899598393574,53.46534653465347,0.6224899598393574
+Validation B.2 - Species Grouped,Linear SVM,Manidae,14,7,7,7,0,1.0,0.5,0.6666666666666666,0.5,10047,0.0,50.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Tupaiidae,43,30,30,13,0,1.0,0.6976744186046512,0.8219178082191781,0.3023255813953488,10018,0.0,30.23255813953488,0.0
+Validation B.2 - Species Grouped,Linear SVM,Heteromyidae,224,190,161,63,29,0.8473684210526315,0.71875,0.7777777777777778,0.28125,9837,0.0029480532682728475,28.125,0.2948053268272848
+Validation B.2 - Species Grouped,Linear SVM,Calomyscidae,31,23,23,8,0,1.0,0.7419354838709677,0.8518518518518519,0.25806451612903225,10030,0.0,25.806451612903224,0.0
+Validation B.2 - Species Grouped,Linear SVM,Dipodidae,52,49,39,13,10,0.7959183673469388,0.75,0.7722772277227722,0.25,10009,0.0009991008092716555,25.0,0.09991008092716555
+Validation B.2 - Species Grouped,Linear SVM,Erinaceidae,4,5,3,1,2,0.6,0.75,0.6666666666666665,0.25,10057,0.00019886646117132345,25.0,0.019886646117132346
+Validation B.2 - Species Grouped,Linear SVM,Myrmecophagidae,4,3,3,1,0,1.0,0.75,0.8571428571428571,0.25,10057,0.0,25.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Sciuridae,66,85,51,15,34,0.6,0.7727272727272727,0.6754966887417219,0.22727272727272727,9995,0.0034017008504252126,22.727272727272727,0.3401700850425213
+Validation B.2 - Species Grouped,Linear SVM,Hominidae,42,33,33,9,0,1.0,0.7857142857142857,0.88,0.21428571428571427,10019,0.0,21.428571428571427,0.0
+Validation B.2 - Species Grouped,Linear SVM,Procyonidae,20,25,16,4,9,0.64,0.8,0.7111111111111111,0.2,10041,0.00089632506722438,20.0,0.089632506722438
+Validation B.2 - Species Grouped,Linear SVM,Natalidae,14,12,12,2,0,1.0,0.8571428571428571,0.923076923076923,0.14285714285714285,10047,0.0,14.285714285714285,0.0
+Validation B.2 - Species Grouped,Linear SVM,Dasyuridae,16,16,14,2,2,0.875,0.875,0.875,0.125,10045,0.00019910403185664509,12.5,0.019910403185664508
+Validation B.2 - Species Grouped,Linear SVM,Geomyidae,72,72,67,5,5,0.9305555555555556,0.9305555555555556,0.9305555555555556,0.06944444444444445,9989,0.0005005506056662329,6.944444444444445,0.05005506056662329
+Validation B.2 - Species Grouped,Linear SVM,Soricidae,335,322,319,16,3,0.9906832298136646,0.9522388059701492,0.9710806697108066,0.04776119402985075,9726,0.00030845157310302283,4.776119402985075,0.030845157310302282
+Validation B.2 - Species Grouped,Linear SVM,Ursidae,143,138,138,5,0,1.0,0.965034965034965,0.9822064056939501,0.03496503496503497,9918,0.0,3.4965034965034967,0.0
+Validation B.2 - Species Grouped,Linear SVM,Phocidae,62,60,60,2,0,1.0,0.967741935483871,0.9836065573770492,0.03225806451612903,9999,0.0,3.225806451612903,0.0
+Validation B.2 - Species Grouped,Linear SVM,Phyllostomidae,1512,1474,1464,48,10,0.9932157394843962,0.9682539682539683,0.9805760214333556,0.031746031746031744,8549,0.0011697274535033338,3.1746031746031744,0.11697274535033338
+Validation B.2 - Species Grouped,Linear SVM,Leporidae,64,66,62,2,4,0.9393939393939394,0.96875,0.9538461538461539,0.03125,9997,0.00040012003601080324,3.125,0.04001200360108032
+Validation B.2 - Species Grouped,Linear SVM,Phocoenidae,39,38,38,1,0,1.0,0.9743589743589743,0.9870129870129869,0.02564102564102564,10022,0.0,2.564102564102564,0.0
+Validation B.2 - Species Grouped,Linear SVM,Cricetidae,1098,1123,1073,25,50,0.9554764024933214,0.9772313296903461,0.9662314272850067,0.022768670309653915,8963,0.005578489345085351,2.2768670309653913,0.5578489345085351
+Validation B.2 - Species Grouped,Linear SVM,Vespertilionidae,969,1039,949,20,90,0.9133782483156881,0.9793601651186791,0.9452191235059761,0.02063983488132095,9092,0.009898812142542894,2.063983488132095,0.9898812142542894
+Validation B.2 - Species Grouped,Linear SVM,Didelphidae,111,110,109,2,1,0.990909090909091,0.9819819819819819,0.9864253393665158,0.018018018018018018,9950,0.00010050251256281407,1.8018018018018018,0.010050251256281407
+Validation B.2 - Species Grouped,Linear SVM,Pteropodidae,234,238,231,3,7,0.9705882352941176,0.9871794871794872,0.9788135593220338,0.01282051282051282,9827,0.0007123231912078966,1.282051282051282,0.07123231912078966
+Validation B.2 - Species Grouped,Linear SVM,Hipposideridae,159,168,157,2,11,0.9345238095238095,0.9874213836477987,0.9602446483180428,0.012578616352201259,9902,0.001110886689557665,1.257861635220126,0.11108866895576651
+Validation B.2 - Species Grouped,Linear SVM,Muridae,577,600,572,5,28,0.9533333333333334,0.9913344887348353,0.97196261682243,0.008665511265164644,9484,0.0029523407844791226,0.8665511265164645,0.2952340784479123
+Validation B.2 - Species Grouped,Linear SVM,Rhinolophidae,153,181,152,1,29,0.8397790055248618,0.9934640522875817,0.9101796407185628,0.006535947712418301,9908,0.002926927735163504,0.6535947712418301,0.2926927735163504
+Validation B.2 - Species Grouped,Linear SVM,Balaenopteridae,169,168,168,1,0,1.0,0.9940828402366864,0.9970326409495549,0.005917159763313609,9892,0.0,0.591715976331361,0.0
+Validation B.2 - Species Grouped,Linear SVM,Echimyidae,325,333,324,1,9,0.972972972972973,0.9969230769230769,0.9848024316109424,0.003076923076923077,9736,0.0009244042728019721,0.3076923076923077,0.0924404272801972
+Validation B.2 - Species Grouped,Linear SVM,Bovidae,384,405,383,1,22,0.945679012345679,0.9973958333333334,0.9708491761723701,0.0026041666666666665,9677,0.0022734318487134444,0.26041666666666663,0.22734318487134444
+Validation B.2 - Species Grouped,Linear SVM,Anomaluridae,1,3,1,0,2,0.3333333333333333,1.0,0.5,0.0,10060,0.00019880715705765408,0.0,0.019880715705765408
+Validation B.2 - Species Grouped,Linear SVM,Aotidae,2,13,2,0,11,0.15384615384615385,1.0,0.2666666666666667,0.0,10059,0.0010935480664081916,0.0,0.10935480664081916
+Validation B.2 - Species Grouped,Linear SVM,Atelidae,2,2,2,0,0,1.0,1.0,1.0,0.0,10059,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Balaenidae,3,3,3,0,0,1.0,1.0,1.0,0.0,10058,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Bathyergidae,2,2,2,0,0,1.0,1.0,1.0,0.0,10059,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Bradypodidae,18,18,18,0,0,1.0,1.0,1.0,0.0,10043,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Caenolestidae,1,2,1,0,1,0.5,1.0,0.6666666666666666,0.0,10060,9.940357852882704e-05,0.0,0.009940357852882704
+Validation B.2 - Species Grouped,Linear SVM,Camelidae,10,10,10,0,0,1.0,1.0,1.0,0.0,10051,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Canidae,597,598,597,0,1,0.9983277591973244,1.0,0.9991631799163181,0.0,9464,0.00010566356720202873,0.0,0.010566356720202874
+Validation B.2 - Species Grouped,Linear SVM,Cebidae,9,9,9,0,0,1.0,1.0,1.0,0.0,10052,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Cercopithecidae,72,87,72,0,15,0.8275862068965517,1.0,0.9056603773584906,0.0,9989,0.0015016518169986986,0.0,0.15016518169986987
+Validation B.2 - Species Grouped,Linear SVM,Cervidae,131,133,131,0,2,0.9849624060150376,1.0,0.9924242424242424,0.0,9930,0.0002014098690835851,0.0,0.02014098690835851
+Validation B.2 - Species Grouped,Linear SVM,Ctenomyidae,27,27,27,0,0,1.0,1.0,1.0,0.0,10034,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Dasypodidae,5,5,5,0,0,1.0,1.0,1.0,0.0,10056,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Dasyproctidae,5,5,5,0,0,1.0,1.0,1.0,0.0,10056,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Delphinidae,113,113,113,0,0,1.0,1.0,1.0,0.0,9948,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Elephantidae,9,9,9,0,0,1.0,1.0,1.0,0.0,10052,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Equidae,266,267,266,0,1,0.9962546816479401,1.0,0.99812382739212,0.0,9795,0.00010209290454313425,0.0,0.010209290454313425
+Validation B.2 - Species Grouped,Linear SVM,Erethizontidae,1,6,1,0,5,0.16666666666666666,1.0,0.2857142857142857,0.0,10060,0.0004970178926441351,0.0,0.049701789264413515
+Validation B.2 - Species Grouped,Linear SVM,Felidae,28,28,28,0,0,1.0,1.0,1.0,0.0,10033,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Galagidae,4,4,4,0,0,1.0,1.0,1.0,0.0,10057,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Hyaenidae,1,1,1,0,0,1.0,1.0,1.0,0.0,10060,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Hylobatidae,13,13,13,0,0,1.0,1.0,1.0,0.0,10048,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Hystricidae,6,11,6,0,5,0.5454545454545454,1.0,0.7058823529411764,0.0,10055,0.0004972650422675286,0.0,0.04972650422675286
+Validation B.2 - Species Grouped,Linear SVM,Indridae,8,16,8,0,8,0.5,1.0,0.6666666666666666,0.0,10053,0.0007957823535263105,0.0,0.07957823535263105
+Validation B.2 - Species Grouped,Linear SVM,Iniidae,70,71,70,0,1,0.9859154929577465,1.0,0.9929078014184397,0.0,9991,0.00010009008107296567,0.0,0.010009008107296567
+Validation B.2 - Species Grouped,Linear SVM,Lemuridae,20,21,20,0,1,0.9523809523809523,1.0,0.975609756097561,0.0,10041,9.959167413604223e-05,0.0,0.009959167413604222
+Validation B.2 - Species Grouped,Linear SVM,Lorisidae,7,7,7,0,0,1.0,1.0,1.0,0.0,10054,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Macropodidae,6,11,6,0,5,0.5454545454545454,1.0,0.7058823529411764,0.0,10055,0.0004972650422675286,0.0,0.04972650422675286
+Validation B.2 - Species Grouped,Linear SVM,Megalonychidae,2,2,2,0,0,1.0,1.0,1.0,0.0,10059,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Mephitidae,28,28,28,0,0,1.0,1.0,1.0,0.0,10033,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Molossidae,250,263,250,0,13,0.9505703422053232,1.0,0.9746588693957116,0.0,9811,0.0013250433187238814,0.0,0.13250433187238814
+Validation B.2 - Species Grouped,Linear SVM,Monodontidae,7,7,7,0,0,1.0,1.0,1.0,0.0,10054,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Mormoopidae,651,651,651,0,0,1.0,1.0,1.0,0.0,9410,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Mustelidae,43,49,43,0,6,0.8775510204081632,1.0,0.9347826086956522,0.0,10018,0.0005989219405070872,0.0,0.059892194050708725
+Validation B.2 - Species Grouped,Linear SVM,Nesomyidae,8,10,8,0,2,0.8,1.0,0.888888888888889,0.0,10053,0.00019894558838157763,0.0,0.01989455883815776
+Validation B.2 - Species Grouped,Linear SVM,Noctilionidae,59,59,59,0,0,1.0,1.0,1.0,0.0,10002,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Nycteridae,3,3,3,0,0,1.0,1.0,1.0,0.0,10058,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Ochotonidae,41,44,41,0,3,0.9318181818181818,1.0,0.9647058823529412,0.0,10020,0.0002994011976047904,0.0,0.029940119760479042
+Validation B.2 - Species Grouped,Linear SVM,Otariidae,4,4,4,0,0,1.0,1.0,1.0,0.0,10057,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Physeteridae,1,1,1,0,0,1.0,1.0,1.0,0.0,10060,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Pitheciidae,2,2,2,0,0,1.0,1.0,1.0,0.0,10059,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Platacanthomyidae,4,5,4,0,1,0.8,1.0,0.888888888888889,0.0,10057,9.943323058566172e-05,0.0,0.009943323058566173
+Validation B.2 - Species Grouped,Linear SVM,Rhinocerotidae,3,3,3,0,0,1.0,1.0,1.0,0.0,10058,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Suidae,220,220,220,0,0,1.0,1.0,1.0,0.0,9841,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Tachyglossidae,1,1,1,0,0,1.0,1.0,1.0,0.0,10060,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Tapiridae,12,13,12,0,1,0.9230769230769231,1.0,0.9600000000000001,0.0,10049,9.95123892924669e-05,0.0,0.009951238929246691
+Validation B.2 - Species Grouped,Linear SVM,Tarsiidae,1,1,1,0,0,1.0,1.0,1.0,0.0,10060,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Tayassuidae,3,3,3,0,0,1.0,1.0,1.0,0.0,10058,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Viverridae,20,21,20,0,1,0.9523809523809523,1.0,0.975609756097561,0.0,10041,9.959167413604223e-05,0.0,0.009959167413604222
+Validation B.2 - Species Grouped,Linear SVM,Vombatidae,1,1,1,0,0,1.0,1.0,1.0,0.0,10060,0.0,0.0,0.0
+Validation B.2 - Species Grouped,Linear SVM,Eschrichtiidae,0,1,0,0,1,0.0,,0.0,,10061,9.939369843951894e-05,,0.009939369843951894
+Validation B.2 - Species Grouped,Linear SVM,Hippopotamidae,0,1,0,0,1,0.0,,0.0,,10061,9.939369843951894e-05,,0.009939369843951894
+Validation B.2 - Species Grouped,Linear SVM,Notoryctidae,0,1,0,0,1,0.0,,0.0,,10061,9.939369843951894e-05,,0.009939369843951894
+Validation B.2 - Species Grouped,Linear SVM,Thryonomyidae,0,1,0,0,1,0.0,,0.0,,10061,9.939369843951894e-05,,0.009939369843951894

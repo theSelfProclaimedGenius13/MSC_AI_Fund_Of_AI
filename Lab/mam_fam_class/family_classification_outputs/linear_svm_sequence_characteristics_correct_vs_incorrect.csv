@@ -1,0 +1,5 @@
+,sequence_length,sequence_length,sequence_length,sequence_length,ambiguous_base_count,ambiguous_base_count,ambiguous_base_count,ambiguous_base_count,gc_content,gc_content,gc_content,gc_content
+,count,mean,median,std,count,mean,median,std,count,mean,median,std
+correct,,,,,,,,,,,,
+False,636,828.2625786163522,657.0,359.6890020392421,636,0.0,0.0,0.0,636,42.45219101668841,41.85569141709493,3.146787283705498
+True,23508,752.6764931087289,657.0,260.40350872056877,23508,0.0,0.0,0.0,23508,42.56067811507314,42.16133942161339,2.5986611911471447

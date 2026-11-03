@@ -1,0 +1,13 @@
+validation,test_name,raw_p_value,test_type,bonferroni_p_value,significant_before_correction,significant_after_correction
+Validation A - Random,sequence_length,3.818470717763729e-07,Mann-Whitney U,4.582164861316475e-06,True,True
+Validation A - Random,gc_content,4.395510843097397e-05,Mann-Whitney U,0.0005274613011716876,True,True
+Validation B.1 - Duplicate Grouped,sequence_length,0.000696743627371594,Mann-Whitney U,0.008360923528459128,True,True
+Validation B.1 - Duplicate Grouped,gc_content,0.4150587768079539,Mann-Whitney U,1.0,False,False
+Validation B.2 - Species Grouped,sequence_length,0.038388390893480395,Mann-Whitney U,0.46066069072176474,True,False
+Validation B.2 - Species Grouped,gc_content,0.2833187319042966,Mann-Whitney U,1.0,False,False
+Validation A - Random,sequence_length_group,4.9999750001249995e-06,Monte Carlo Chi-square,5.9999700001499995e-05,True,True
+Validation A - Random,gc_content_group,9.999950000249999e-06,Monte Carlo Chi-square,0.00011999940000299999,True,True
+Validation B.1 - Duplicate Grouped,sequence_length_group,8.999955000224999e-05,Monte Carlo Chi-square,0.0010799946000269998,True,True
+Validation B.1 - Duplicate Grouped,gc_content_group,4.9999750001249995e-06,Monte Carlo Chi-square,5.9999700001499995e-05,True,True
+Validation B.2 - Species Grouped,sequence_length_group,4.9999750001249995e-06,Monte Carlo Chi-square,5.9999700001499995e-05,True,True
+Validation B.2 - Species Grouped,gc_content_group,0.00045999770001149996,Monte Carlo Chi-square,0.005519972400138,True,True

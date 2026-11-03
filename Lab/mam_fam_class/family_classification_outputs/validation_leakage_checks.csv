@@ -1,0 +1,4 @@
+validation,exact_sequence_overlap,family_species_overlap
+Validation A - Random,2151,1091
+Validation B.1 - Duplicate Grouped,0,964
+Validation B.2 - Species Grouped,0,0

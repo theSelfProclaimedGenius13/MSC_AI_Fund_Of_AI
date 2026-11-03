@@ -1,0 +1,783 @@
+validation,model,FP_family,FP
+Validation A - Random,Decision Tree,Anomaluridae,1
+Validation A - Random,Decision Tree,Atelidae,1
+Validation A - Random,Decision Tree,Balaenidae,1
+Validation A - Random,Decision Tree,Balaenopteridae,3
+Validation A - Random,Decision Tree,Bathyergidae,1
+Validation A - Random,Decision Tree,Bovidae,15
+Validation A - Random,Decision Tree,Caenolestidae,2
+Validation A - Random,Decision Tree,Calomyscidae,1
+Validation A - Random,Decision Tree,Camelidae,1
+Validation A - Random,Decision Tree,Canidae,3
+Validation A - Random,Decision Tree,Cebidae,3
+Validation A - Random,Decision Tree,Cercopithecidae,7
+Validation A - Random,Decision Tree,Cervidae,11
+Validation A - Random,Decision Tree,Cricetidae,28
+Validation A - Random,Decision Tree,Ctenomyidae,4
+Validation A - Random,Decision Tree,Cyclopedidae,1
+Validation A - Random,Decision Tree,Dasypodidae,2
+Validation A - Random,Decision Tree,Dasyuridae,2
+Validation A - Random,Decision Tree,Delphinidae,5
+Validation A - Random,Decision Tree,Didelphidae,3
+Validation A - Random,Decision Tree,Dipodidae,2
+Validation A - Random,Decision Tree,Dugongidae,1
+Validation A - Random,Decision Tree,Echimyidae,6
+Validation A - Random,Decision Tree,Emballonuridae,10
+Validation A - Random,Decision Tree,Equidae,4
+Validation A - Random,Decision Tree,Erinaceidae,2
+Validation A - Random,Decision Tree,Eschrichtiidae,1
+Validation A - Random,Decision Tree,Felidae,7
+Validation A - Random,Decision Tree,Galagidae,1
+Validation A - Random,Decision Tree,Geomyidae,2
+Validation A - Random,Decision Tree,Giraffidae,1
+Validation A - Random,Decision Tree,Herpestidae,1
+Validation A - Random,Decision Tree,Heteromyidae,10
+Validation A - Random,Decision Tree,Hippopotamidae,1
+Validation A - Random,Decision Tree,Hipposideridae,11
+Validation A - Random,Decision Tree,Hominidae,3
+Validation A - Random,Decision Tree,Hystricidae,2
+Validation A - Random,Decision Tree,Indridae,1
+Validation A - Random,Decision Tree,Iniidae,1
+Validation A - Random,Decision Tree,Lemuridae,3
+Validation A - Random,Decision Tree,Leporidae,5
+Validation A - Random,Decision Tree,Macropodidae,5
+Validation A - Random,Decision Tree,Manidae,1
+Validation A - Random,Decision Tree,Megadermatidae,1
+Validation A - Random,Decision Tree,Megalonychidae,1
+Validation A - Random,Decision Tree,Mephitidae,1
+Validation A - Random,Decision Tree,Molossidae,10
+Validation A - Random,Decision Tree,Moschidae,1
+Validation A - Random,Decision Tree,Muridae,24
+Validation A - Random,Decision Tree,Mustelidae,9
+Validation A - Random,Decision Tree,Mystacinidae,1
+Validation A - Random,Decision Tree,Nesomyidae,1
+Validation A - Random,Decision Tree,Noctilionidae,2
+Validation A - Random,Decision Tree,Ochotonidae,8
+Validation A - Random,Decision Tree,Octodontidae,1
+Validation A - Random,Decision Tree,Orycteropodidae,3
+Validation A - Random,Decision Tree,Otariidae,1
+Validation A - Random,Decision Tree,Paleopropithecidae,1
+Validation A - Random,Decision Tree,Phocidae,4
+Validation A - Random,Decision Tree,Phocoenidae,1
+Validation A - Random,Decision Tree,Phyllostomidae,24
+Validation A - Random,Decision Tree,Pitheciidae,1
+Validation A - Random,Decision Tree,Platacanthomyidae,1
+Validation A - Random,Decision Tree,Potoroidae,1
+Validation A - Random,Decision Tree,Procaviidae,1
+Validation A - Random,Decision Tree,Procyonidae,1
+Validation A - Random,Decision Tree,Pteropodidae,4
+Validation A - Random,Decision Tree,Rhinocerotidae,1
+Validation A - Random,Decision Tree,Rhinolophidae,11
+Validation A - Random,Decision Tree,Rhinopomatidae,1
+Validation A - Random,Decision Tree,Sciuridae,11
+Validation A - Random,Decision Tree,Soricidae,19
+Validation A - Random,Decision Tree,Spalacidae,4
+Validation A - Random,Decision Tree,Suidae,1
+Validation A - Random,Decision Tree,Talpidae,2
+Validation A - Random,Decision Tree,Tarsiidae,1
+Validation A - Random,Decision Tree,Tenrecidae,1
+Validation A - Random,Decision Tree,Thryonomyidae,1
+Validation A - Random,Decision Tree,Tragulidae,1
+Validation A - Random,Decision Tree,Tupaiidae,11
+Validation A - Random,Decision Tree,Ursidae,2
+Validation A - Random,Decision Tree,Vespertilionidae,48
+Validation A - Random,Decision Tree,Viverridae,1
+Validation A - Random,Decision Tree,Ziphiidae,1
+Validation A - Random,Linear SVM,Atelidae,1
+Validation A - Random,Linear SVM,Bovidae,2
+Validation A - Random,Linear SVM,Calomyscidae,1
+Validation A - Random,Linear SVM,Canidae,1
+Validation A - Random,Linear SVM,Cebidae,1
+Validation A - Random,Linear SVM,Cercopithecidae,2
+Validation A - Random,Linear SVM,Chrysochloridae,1
+Validation A - Random,Linear SVM,Cricetidae,1
+Validation A - Random,Linear SVM,Didelphidae,1
+Validation A - Random,Linear SVM,Echimyidae,3
+Validation A - Random,Linear SVM,Erinaceidae,2
+Validation A - Random,Linear SVM,Geomyidae,1
+Validation A - Random,Linear SVM,Gliridae,1
+Validation A - Random,Linear SVM,Heteromyidae,3
+Validation A - Random,Linear SVM,Hipposideridae,2
+Validation A - Random,Linear SVM,Iniidae,1
+Validation A - Random,Linear SVM,Lorisidae,1
+Validation A - Random,Linear SVM,Macropodidae,1
+Validation A - Random,Linear SVM,Macroscelididae,1
+Validation A - Random,Linear SVM,Megaladapidae,1
+Validation A - Random,Linear SVM,Muridae,5
+Validation A - Random,Linear SVM,Mustelidae,1
+Validation A - Random,Linear SVM,Noctilionidae,1
+Validation A - Random,Linear SVM,Peramelidae,1
+Validation A - Random,Linear SVM,Petauridae,1
+Validation A - Random,Linear SVM,Phyllostomidae,2
+Validation A - Random,Linear SVM,Pitheciidae,1
+Validation A - Random,Linear SVM,Rhinocerotidae,2
+Validation A - Random,Linear SVM,Rhinolophidae,2
+Validation A - Random,Linear SVM,Sciuridae,6
+Validation A - Random,Linear SVM,Spalacidae,1
+Validation A - Random,Linear SVM,Talpidae,1
+Validation A - Random,Linear SVM,Thryonomyidae,1
+Validation A - Random,Linear SVM,Vespertilionidae,1
+Validation A - Random,Logistic Regression,Balaenidae,3
+Validation A - Random,Logistic Regression,Balaenopteridae,1
+Validation A - Random,Logistic Regression,Bovidae,9
+Validation A - Random,Logistic Regression,Caenolestidae,1
+Validation A - Random,Logistic Regression,Cebidae,1
+Validation A - Random,Logistic Regression,Cervidae,2
+Validation A - Random,Logistic Regression,Cricetidae,5
+Validation A - Random,Logistic Regression,Dasypodidae,11
+Validation A - Random,Logistic Regression,Dasyuridae,7
+Validation A - Random,Logistic Regression,Didelphidae,2
+Validation A - Random,Logistic Regression,Dipodidae,7
+Validation A - Random,Logistic Regression,Echimyidae,2
+Validation A - Random,Logistic Regression,Emballonuridae,12
+Validation A - Random,Logistic Regression,Geomyidae,4
+Validation A - Random,Logistic Regression,Heteromyidae,5
+Validation A - Random,Logistic Regression,Hipposideridae,2
+Validation A - Random,Logistic Regression,Hominidae,1
+Validation A - Random,Logistic Regression,Hylobatidae,1
+Validation A - Random,Logistic Regression,Iniidae,1
+Validation A - Random,Logistic Regression,Leporidae,3
+Validation A - Random,Logistic Regression,Macroscelididae,1
+Validation A - Random,Logistic Regression,Manidae,2
+Validation A - Random,Logistic Regression,Molossidae,5
+Validation A - Random,Logistic Regression,Mormoopidae,4
+Validation A - Random,Logistic Regression,Muridae,13
+Validation A - Random,Logistic Regression,Mustelidae,2
+Validation A - Random,Logistic Regression,Nesomyidae,1
+Validation A - Random,Logistic Regression,Phyllostomidae,7
+Validation A - Random,Logistic Regression,Platacanthomyidae,3
+Validation A - Random,Logistic Regression,Rhinolophidae,2
+Validation A - Random,Logistic Regression,Sciuridae,15
+Validation A - Random,Logistic Regression,Soricidae,16
+Validation A - Random,Logistic Regression,Spalacidae,2
+Validation A - Random,Logistic Regression,Talpidae,2
+Validation A - Random,Logistic Regression,Tapiridae,2
+Validation A - Random,Logistic Regression,Tupaiidae,1
+Validation A - Random,Logistic Regression,Vespertilionidae,6
+Validation A - Random,Multinomial Naive Bayes,Atelidae,6
+Validation A - Random,Multinomial Naive Bayes,Balaenidae,1
+Validation A - Random,Multinomial Naive Bayes,Bovidae,2
+Validation A - Random,Multinomial Naive Bayes,Canidae,1
+Validation A - Random,Multinomial Naive Bayes,Cercopithecidae,7
+Validation A - Random,Multinomial Naive Bayes,Cervidae,7
+Validation A - Random,Multinomial Naive Bayes,Cricetidae,38
+Validation A - Random,Multinomial Naive Bayes,Dasypodidae,27
+Validation A - Random,Multinomial Naive Bayes,Didelphidae,1
+Validation A - Random,Multinomial Naive Bayes,Dipodidae,19
+Validation A - Random,Multinomial Naive Bayes,Emballonuridae,21
+Validation A - Random,Multinomial Naive Bayes,Erinaceidae,1
+Validation A - Random,Multinomial Naive Bayes,Felidae,3
+Validation A - Random,Multinomial Naive Bayes,Geomyidae,30
+Validation A - Random,Multinomial Naive Bayes,Giraffidae,2
+Validation A - Random,Multinomial Naive Bayes,Heteromyidae,3
+Validation A - Random,Multinomial Naive Bayes,Hipposideridae,52
+Validation A - Random,Multinomial Naive Bayes,Indridae,19
+Validation A - Random,Multinomial Naive Bayes,Lemuridae,5
+Validation A - Random,Multinomial Naive Bayes,Macropodidae,47
+Validation A - Random,Multinomial Naive Bayes,Macroscelididae,1
+Validation A - Random,Multinomial Naive Bayes,Manidae,10
+Validation A - Random,Multinomial Naive Bayes,Megadermatidae,16
+Validation A - Random,Multinomial Naive Bayes,Molossidae,7
+Validation A - Random,Multinomial Naive Bayes,Mormoopidae,2
+Validation A - Random,Multinomial Naive Bayes,Muridae,25
+Validation A - Random,Multinomial Naive Bayes,Mustelidae,6
+Validation A - Random,Multinomial Naive Bayes,Nycteridae,1
+Validation A - Random,Multinomial Naive Bayes,Ochotonidae,14
+Validation A - Random,Multinomial Naive Bayes,Phyllostomidae,13
+Validation A - Random,Multinomial Naive Bayes,Physeteridae,4
+Validation A - Random,Multinomial Naive Bayes,Pitheciidae,8
+Validation A - Random,Multinomial Naive Bayes,Platacanthomyidae,5
+Validation A - Random,Multinomial Naive Bayes,Pteropodidae,13
+Validation A - Random,Multinomial Naive Bayes,Rhinocerotidae,3
+Validation A - Random,Multinomial Naive Bayes,Rhinolophidae,4
+Validation A - Random,Multinomial Naive Bayes,Sciuridae,66
+Validation A - Random,Multinomial Naive Bayes,Spalacidae,6
+Validation A - Random,Multinomial Naive Bayes,Talpidae,3
+Validation A - Random,Multinomial Naive Bayes,Tarsiidae,3
+Validation A - Random,Multinomial Naive Bayes,Trichechidae,1
+Validation A - Random,Multinomial Naive Bayes,Vespertilionidae,225
+Validation A - Random,Random Forest,Balaenopteridae,1
+Validation A - Random,Random Forest,Bathyergidae,1
+Validation A - Random,Random Forest,Bovidae,3
+Validation A - Random,Random Forest,Cebidae,2
+Validation A - Random,Random Forest,Cercopithecidae,12
+Validation A - Random,Random Forest,Chlamyphoridae,5
+Validation A - Random,Random Forest,Cricetidae,1
+Validation A - Random,Random Forest,Dasypodidae,8
+Validation A - Random,Random Forest,Didelphidae,1
+Validation A - Random,Random Forest,Dugongidae,1
+Validation A - Random,Random Forest,Emballonuridae,1
+Validation A - Random,Random Forest,Erinaceidae,1
+Validation A - Random,Random Forest,Eupleridae,1
+Validation A - Random,Random Forest,Felidae,4
+Validation A - Random,Random Forest,Geomyidae,16
+Validation A - Random,Random Forest,Heteromyidae,1
+Validation A - Random,Random Forest,Hipposideridae,4
+Validation A - Random,Random Forest,Hominidae,1
+Validation A - Random,Random Forest,Lemuridae,4
+Validation A - Random,Random Forest,Leporidae,2
+Validation A - Random,Random Forest,Lorisidae,1
+Validation A - Random,Random Forest,Macropodidae,3
+Validation A - Random,Random Forest,Mammutidae,2
+Validation A - Random,Random Forest,Megaladapidae,1
+Validation A - Random,Random Forest,Molossidae,1
+Validation A - Random,Random Forest,Muridae,4
+Validation A - Random,Random Forest,Mustelidae,3
+Validation A - Random,Random Forest,Natalidae,1
+Validation A - Random,Random Forest,Ochotonidae,3
+Validation A - Random,Random Forest,Octodontidae,1
+Validation A - Random,Random Forest,Orycteropodidae,2
+Validation A - Random,Random Forest,Paleopropithecidae,1
+Validation A - Random,Random Forest,Phalangeridae,2
+Validation A - Random,Random Forest,Phyllostomidae,2
+Validation A - Random,Random Forest,Pitheciidae,1
+Validation A - Random,Random Forest,Platacanthomyidae,1
+Validation A - Random,Random Forest,Pseudocheiridae,6
+Validation A - Random,Random Forest,Pteropodidae,2
+Validation A - Random,Random Forest,Rhinolophidae,1
+Validation A - Random,Random Forest,Spalacidae,1
+Validation A - Random,Random Forest,Suidae,1
+Validation A - Random,Random Forest,Tarsiidae,1
+Validation A - Random,Random Forest,Tarsipedidae,1
+Validation A - Random,Random Forest,Thylacomyidae,3
+Validation A - Random,Random Forest,Vespertilionidae,18
+Validation A - Random,Random Forest,Viverridae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Aotidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Balaenopteridae,4
+Validation B.1 - Duplicate Grouped,Decision Tree,Bovidae,26
+Validation B.1 - Duplicate Grouped,Decision Tree,Bradypodidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Caenolestidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Calomyscidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Camelidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Canidae,7
+Validation B.1 - Duplicate Grouped,Decision Tree,Castoridae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Caviidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Cebidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Cercopithecidae,10
+Validation B.1 - Duplicate Grouped,Decision Tree,Cervidae,11
+Validation B.1 - Duplicate Grouped,Decision Tree,Chrysochloridae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Cricetidae,56
+Validation B.1 - Duplicate Grouped,Decision Tree,Dasypodidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Dasyproctidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Dasyuridae,7
+Validation B.1 - Duplicate Grouped,Decision Tree,Delphinidae,7
+Validation B.1 - Duplicate Grouped,Decision Tree,Didelphidae,14
+Validation B.1 - Duplicate Grouped,Decision Tree,Dipodidae,8
+Validation B.1 - Duplicate Grouped,Decision Tree,Echimyidae,5
+Validation B.1 - Duplicate Grouped,Decision Tree,Emballonuridae,6
+Validation B.1 - Duplicate Grouped,Decision Tree,Equidae,4
+Validation B.1 - Duplicate Grouped,Decision Tree,Felidae,16
+Validation B.1 - Duplicate Grouped,Decision Tree,Galagidae,5
+Validation B.1 - Duplicate Grouped,Decision Tree,Geomyidae,3
+Validation B.1 - Duplicate Grouped,Decision Tree,Giraffidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Heteromyidae,15
+Validation B.1 - Duplicate Grouped,Decision Tree,Hipposideridae,6
+Validation B.1 - Duplicate Grouped,Decision Tree,Hominidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Hyaenidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Hylobatidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Indridae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Iniidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Lemuridae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Leporidae,5
+Validation B.1 - Duplicate Grouped,Decision Tree,Lorisidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Macropodidae,3
+Validation B.1 - Duplicate Grouped,Decision Tree,Manidae,3
+Validation B.1 - Duplicate Grouped,Decision Tree,Mephitidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Molossidae,7
+Validation B.1 - Duplicate Grouped,Decision Tree,Mormoopidae,4
+Validation B.1 - Duplicate Grouped,Decision Tree,Moschidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Muridae,32
+Validation B.1 - Duplicate Grouped,Decision Tree,Mustelidae,14
+Validation B.1 - Duplicate Grouped,Decision Tree,Nandiniidae,4
+Validation B.1 - Duplicate Grouped,Decision Tree,Nesomyidae,3
+Validation B.1 - Duplicate Grouped,Decision Tree,Noctilionidae,4
+Validation B.1 - Duplicate Grouped,Decision Tree,Ochotonidae,7
+Validation B.1 - Duplicate Grouped,Decision Tree,Octodontidae,9
+Validation B.1 - Duplicate Grouped,Decision Tree,Odobenidae,12
+Validation B.1 - Duplicate Grouped,Decision Tree,Orycteropodidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Peramelidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Phocoenidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Phyllostomidae,52
+Validation B.1 - Duplicate Grouped,Decision Tree,Pitheciidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Platacanthomyidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Pteropodidae,18
+Validation B.1 - Duplicate Grouped,Decision Tree,Rhinolophidae,10
+Validation B.1 - Duplicate Grouped,Decision Tree,Sciuridae,16
+Validation B.1 - Duplicate Grouped,Decision Tree,Soricidae,15
+Validation B.1 - Duplicate Grouped,Decision Tree,Spalacidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Suidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Tapiridae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Tarsiidae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Tarsipedidae,1
+Validation B.1 - Duplicate Grouped,Decision Tree,Tupaiidae,7
+Validation B.1 - Duplicate Grouped,Decision Tree,Ursidae,3
+Validation B.1 - Duplicate Grouped,Decision Tree,Vespertilionidae,67
+Validation B.1 - Duplicate Grouped,Decision Tree,Viverridae,2
+Validation B.1 - Duplicate Grouped,Decision Tree,Ziphiidae,4
+Validation B.1 - Duplicate Grouped,Linear SVM,Bovidae,2
+Validation B.1 - Duplicate Grouped,Linear SVM,Cebidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Cercopithecidae,3
+Validation B.1 - Duplicate Grouped,Linear SVM,Cervidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Cheirogaleidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Chrysochloridae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Cricetidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Dasyuridae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Emballonuridae,2
+Validation B.1 - Duplicate Grouped,Linear SVM,Erinaceidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Galagidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Geomyidae,3
+Validation B.1 - Duplicate Grouped,Linear SVM,Herpestidae,4
+Validation B.1 - Duplicate Grouped,Linear SVM,Heteromyidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Hipposideridae,14
+Validation B.1 - Duplicate Grouped,Linear SVM,Lemuridae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Leporidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Macropodidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Molossidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Muridae,5
+Validation B.1 - Duplicate Grouped,Linear SVM,Mustelidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Peramelidae,2
+Validation B.1 - Duplicate Grouped,Linear SVM,Phyllostomidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Platacanthomyidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Rhinocerotidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Rhinolophidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Sciuridae,6
+Validation B.1 - Duplicate Grouped,Linear SVM,Thryonomyidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Tupaiidae,1
+Validation B.1 - Duplicate Grouped,Linear SVM,Vespertilionidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Balaenidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Bovidae,3
+Validation B.1 - Duplicate Grouped,Logistic Regression,Caenolestidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Canidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Cercopithecidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Cervidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Chrysochloridae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Cricetidae,7
+Validation B.1 - Duplicate Grouped,Logistic Regression,Dasypodidae,7
+Validation B.1 - Duplicate Grouped,Logistic Regression,Delphinidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Didelphidae,10
+Validation B.1 - Duplicate Grouped,Logistic Regression,Dipodidae,14
+Validation B.1 - Duplicate Grouped,Logistic Regression,Echimyidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Emballonuridae,11
+Validation B.1 - Duplicate Grouped,Logistic Regression,Erinaceidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Eschrichtiidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Geomyidae,5
+Validation B.1 - Duplicate Grouped,Logistic Regression,Heteromyidae,6
+Validation B.1 - Duplicate Grouped,Logistic Regression,Hipposideridae,11
+Validation B.1 - Duplicate Grouped,Logistic Regression,Lemuridae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Leporidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Macropodidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Macroscelididae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Megadermatidae,3
+Validation B.1 - Duplicate Grouped,Logistic Regression,Molossidae,8
+Validation B.1 - Duplicate Grouped,Logistic Regression,Mormoopidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Muridae,24
+Validation B.1 - Duplicate Grouped,Logistic Regression,Mustelidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Nesomyidae,3
+Validation B.1 - Duplicate Grouped,Logistic Regression,Ochotonidae,3
+Validation B.1 - Duplicate Grouped,Logistic Regression,Phyllostomidae,21
+Validation B.1 - Duplicate Grouped,Logistic Regression,Physeteridae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Pitheciidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Pteropodidae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Sciuridae,13
+Validation B.1 - Duplicate Grouped,Logistic Regression,Soricidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Tupaiidae,2
+Validation B.1 - Duplicate Grouped,Logistic Regression,Vespertilionidae,26
+Validation B.1 - Duplicate Grouped,Logistic Regression,Viverridae,1
+Validation B.1 - Duplicate Grouped,Logistic Regression,Ziphiidae,1
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Atelidae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Bovidae,1
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Canidae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Cercopithecidae,9
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Cervidae,1
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Chrysochloridae,1
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Cricetidae,40
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Dasypodidae,43
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Dasyuridae,16
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Didelphidae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Dipodidae,24
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Echimyidae,5
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Emballonuridae,9
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Erinaceidae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Felidae,6
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Geomyidae,16
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Giraffidae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Heteromyidae,5
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Hipposideridae,13
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Indridae,16
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Lemuridae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Macropodidae,50
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Manidae,9
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Megadermatidae,24
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Mormoopidae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Moschidae,1
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Muridae,46
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Mustelidae,7
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Neobalaenidae,1
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Nesomyidae,1
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Ochotonidae,17
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Phyllostomidae,13
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Pitheciidae,8
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Platacanthomyidae,5
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Pteropodidae,12
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Rhinolophidae,15
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Sciuridae,59
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Spalacidae,4
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Talpidae,2
+Validation B.1 - Duplicate Grouped,Multinomial Naive Bayes,Vespertilionidae,209
+Validation B.1 - Duplicate Grouped,Random Forest,Acrobatidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Ailuridae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Balaenopteridae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Bathyergidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Bovidae,5
+Validation B.1 - Duplicate Grouped,Random Forest,Cercopithecidae,11
+Validation B.1 - Duplicate Grouped,Random Forest,Cervidae,3
+Validation B.1 - Duplicate Grouped,Random Forest,Cheirogaleidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Chinchillidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Chlamyphoridae,5
+Validation B.1 - Duplicate Grouped,Random Forest,Chrysochloridae,2
+Validation B.1 - Duplicate Grouped,Random Forest,Cricetidae,9
+Validation B.1 - Duplicate Grouped,Random Forest,Ctenomyidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Dasypodidae,5
+Validation B.1 - Duplicate Grouped,Random Forest,Dasyuridae,2
+Validation B.1 - Duplicate Grouped,Random Forest,Dipodidae,2
+Validation B.1 - Duplicate Grouped,Random Forest,Dugongidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Erinaceidae,3
+Validation B.1 - Duplicate Grouped,Random Forest,Eschrichtiidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Felidae,4
+Validation B.1 - Duplicate Grouped,Random Forest,Geomyidae,10
+Validation B.1 - Duplicate Grouped,Random Forest,Hipposideridae,6
+Validation B.1 - Duplicate Grouped,Random Forest,Hylobatidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Indridae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Iniidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Lemuridae,3
+Validation B.1 - Duplicate Grouped,Random Forest,Leporidae,2
+Validation B.1 - Duplicate Grouped,Random Forest,Macropodidae,7
+Validation B.1 - Duplicate Grouped,Random Forest,Mammutidae,5
+Validation B.1 - Duplicate Grouped,Random Forest,Megadermatidae,4
+Validation B.1 - Duplicate Grouped,Random Forest,Megaladapidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Molossidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Muridae,24
+Validation B.1 - Duplicate Grouped,Random Forest,Mustelidae,2
+Validation B.1 - Duplicate Grouped,Random Forest,Mystacinidae,3
+Validation B.1 - Duplicate Grouped,Random Forest,Natalidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Ochotonidae,4
+Validation B.1 - Duplicate Grouped,Random Forest,Ornithorhynchidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Paleopropithecidae,2
+Validation B.1 - Duplicate Grouped,Random Forest,Peramelidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Phalangeridae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Phascolarctidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Phocidae,2
+Validation B.1 - Duplicate Grouped,Random Forest,Phyllostomidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Pitheciidae,3
+Validation B.1 - Duplicate Grouped,Random Forest,Pseudocheiridae,3
+Validation B.1 - Duplicate Grouped,Random Forest,Rhinocerotidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Rhinolophidae,12
+Validation B.1 - Duplicate Grouped,Random Forest,Sciuridae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Spalacidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Talpidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Tarsiidae,1
+Validation B.1 - Duplicate Grouped,Random Forest,Tarsipedidae,4
+Validation B.1 - Duplicate Grouped,Random Forest,Vespertilionidae,20
+Validation B.2 - Species Grouped,Decision Tree,Ailuridae,2
+Validation B.2 - Species Grouped,Decision Tree,Antilocapridae,3
+Validation B.2 - Species Grouped,Decision Tree,Balaenopteridae,1
+Validation B.2 - Species Grouped,Decision Tree,Bovidae,194
+Validation B.2 - Species Grouped,Decision Tree,Caenolestidae,10
+Validation B.2 - Species Grouped,Decision Tree,Calomyscidae,4
+Validation B.2 - Species Grouped,Decision Tree,Camelidae,4
+Validation B.2 - Species Grouped,Decision Tree,Canidae,5
+Validation B.2 - Species Grouped,Decision Tree,Caviidae,2
+Validation B.2 - Species Grouped,Decision Tree,Cebidae,5
+Validation B.2 - Species Grouped,Decision Tree,Cercopithecidae,22
+Validation B.2 - Species Grouped,Decision Tree,Cervidae,120
+Validation B.2 - Species Grouped,Decision Tree,Chrysochloridae,3
+Validation B.2 - Species Grouped,Decision Tree,Cricetidae,491
+Validation B.2 - Species Grouped,Decision Tree,Ctenomyidae,62
+Validation B.2 - Species Grouped,Decision Tree,Cuniculidae,11
+Validation B.2 - Species Grouped,Decision Tree,Cyclopedidae,16
+Validation B.2 - Species Grouped,Decision Tree,Dasypodidae,25
+Validation B.2 - Species Grouped,Decision Tree,Dasyproctidae,30
+Validation B.2 - Species Grouped,Decision Tree,Dasyuridae,1
+Validation B.2 - Species Grouped,Decision Tree,Delphinidae,38
+Validation B.2 - Species Grouped,Decision Tree,Didelphidae,67
+Validation B.2 - Species Grouped,Decision Tree,Dipodidae,122
+Validation B.2 - Species Grouped,Decision Tree,Dugongidae,1
+Validation B.2 - Species Grouped,Decision Tree,Echimyidae,48
+Validation B.2 - Species Grouped,Decision Tree,Elephantidae,1
+Validation B.2 - Species Grouped,Decision Tree,Emballonuridae,22
+Validation B.2 - Species Grouped,Decision Tree,Equidae,40
+Validation B.2 - Species Grouped,Decision Tree,Erethizontidae,5
+Validation B.2 - Species Grouped,Decision Tree,Erinaceidae,3
+Validation B.2 - Species Grouped,Decision Tree,Eschrichtiidae,7
+Validation B.2 - Species Grouped,Decision Tree,Eupleridae,1
+Validation B.2 - Species Grouped,Decision Tree,Felidae,27
+Validation B.2 - Species Grouped,Decision Tree,Galagidae,4
+Validation B.2 - Species Grouped,Decision Tree,Geomyidae,73
+Validation B.2 - Species Grouped,Decision Tree,Giraffidae,1
+Validation B.2 - Species Grouped,Decision Tree,Gliridae,19
+Validation B.2 - Species Grouped,Decision Tree,Heteromyidae,30
+Validation B.2 - Species Grouped,Decision Tree,Hipposideridae,171
+Validation B.2 - Species Grouped,Decision Tree,Hominidae,14
+Validation B.2 - Species Grouped,Decision Tree,Hyaenidae,1
+Validation B.2 - Species Grouped,Decision Tree,Hylobatidae,3
+Validation B.2 - Species Grouped,Decision Tree,Indridae,1
+Validation B.2 - Species Grouped,Decision Tree,Iniidae,3
+Validation B.2 - Species Grouped,Decision Tree,Lemuridae,22
+Validation B.2 - Species Grouped,Decision Tree,Lepilemuridae,2
+Validation B.2 - Species Grouped,Decision Tree,Leporidae,225
+Validation B.2 - Species Grouped,Decision Tree,Lorisidae,2
+Validation B.2 - Species Grouped,Decision Tree,Macropodidae,5
+Validation B.2 - Species Grouped,Decision Tree,Manidae,13
+Validation B.2 - Species Grouped,Decision Tree,Megadermatidae,10
+Validation B.2 - Species Grouped,Decision Tree,Mephitidae,4
+Validation B.2 - Species Grouped,Decision Tree,Molossidae,19
+Validation B.2 - Species Grouped,Decision Tree,Monodontidae,14
+Validation B.2 - Species Grouped,Decision Tree,Mormoopidae,7
+Validation B.2 - Species Grouped,Decision Tree,Muridae,790
+Validation B.2 - Species Grouped,Decision Tree,Mustelidae,69
+Validation B.2 - Species Grouped,Decision Tree,Myrmecobiidae,1
+Validation B.2 - Species Grouped,Decision Tree,Nandiniidae,2
+Validation B.2 - Species Grouped,Decision Tree,Natalidae,1
+Validation B.2 - Species Grouped,Decision Tree,Neobalaenidae,3
+Validation B.2 - Species Grouped,Decision Tree,Nesomyidae,8
+Validation B.2 - Species Grouped,Decision Tree,Noctilionidae,3
+Validation B.2 - Species Grouped,Decision Tree,Nycteridae,2
+Validation B.2 - Species Grouped,Decision Tree,Ochotonidae,54
+Validation B.2 - Species Grouped,Decision Tree,Octodontidae,2
+Validation B.2 - Species Grouped,Decision Tree,Odobenidae,2
+Validation B.2 - Species Grouped,Decision Tree,Orycteropodidae,3
+Validation B.2 - Species Grouped,Decision Tree,Otariidae,8
+Validation B.2 - Species Grouped,Decision Tree,Peramelidae,1
+Validation B.2 - Species Grouped,Decision Tree,Petauridae,70
+Validation B.2 - Species Grouped,Decision Tree,Phascolarctidae,1
+Validation B.2 - Species Grouped,Decision Tree,Phocidae,33
+Validation B.2 - Species Grouped,Decision Tree,Phocoenidae,3
+Validation B.2 - Species Grouped,Decision Tree,Phyllostomidae,605
+Validation B.2 - Species Grouped,Decision Tree,Pitheciidae,3
+Validation B.2 - Species Grouped,Decision Tree,Platacanthomyidae,6
+Validation B.2 - Species Grouped,Decision Tree,Procyonidae,10
+Validation B.2 - Species Grouped,Decision Tree,Pteropodidae,123
+Validation B.2 - Species Grouped,Decision Tree,Rhinocerotidae,2
+Validation B.2 - Species Grouped,Decision Tree,Rhinolophidae,13
+Validation B.2 - Species Grouped,Decision Tree,Rhinopomatidae,1
+Validation B.2 - Species Grouped,Decision Tree,Sciuridae,105
+Validation B.2 - Species Grouped,Decision Tree,Soricidae,178
+Validation B.2 - Species Grouped,Decision Tree,Spalacidae,10
+Validation B.2 - Species Grouped,Decision Tree,Suidae,4
+Validation B.2 - Species Grouped,Decision Tree,Tachyglossidae,415
+Validation B.2 - Species Grouped,Decision Tree,Talpidae,7
+Validation B.2 - Species Grouped,Decision Tree,Tapiridae,1
+Validation B.2 - Species Grouped,Decision Tree,Tarsipedidae,1
+Validation B.2 - Species Grouped,Decision Tree,Tayassuidae,2
+Validation B.2 - Species Grouped,Decision Tree,Tenrecidae,1
+Validation B.2 - Species Grouped,Decision Tree,Thryonomyidae,3
+Validation B.2 - Species Grouped,Decision Tree,Tragulidae,1
+Validation B.2 - Species Grouped,Decision Tree,Trichechidae,8
+Validation B.2 - Species Grouped,Decision Tree,Tupaiidae,97
+Validation B.2 - Species Grouped,Decision Tree,Ursidae,5
+Validation B.2 - Species Grouped,Decision Tree,Vespertilionidae,894
+Validation B.2 - Species Grouped,Decision Tree,Viverridae,13
+Validation B.2 - Species Grouped,Decision Tree,Vombatidae,1
+Validation B.2 - Species Grouped,Decision Tree,Ziphiidae,148
+Validation B.2 - Species Grouped,Linear SVM,Anomaluridae,2
+Validation B.2 - Species Grouped,Linear SVM,Aotidae,11
+Validation B.2 - Species Grouped,Linear SVM,Bovidae,22
+Validation B.2 - Species Grouped,Linear SVM,Caenolestidae,1
+Validation B.2 - Species Grouped,Linear SVM,Canidae,1
+Validation B.2 - Species Grouped,Linear SVM,Cercopithecidae,15
+Validation B.2 - Species Grouped,Linear SVM,Cervidae,2
+Validation B.2 - Species Grouped,Linear SVM,Cricetidae,50
+Validation B.2 - Species Grouped,Linear SVM,Dasyuridae,2
+Validation B.2 - Species Grouped,Linear SVM,Didelphidae,1
+Validation B.2 - Species Grouped,Linear SVM,Dipodidae,10
+Validation B.2 - Species Grouped,Linear SVM,Echimyidae,9
+Validation B.2 - Species Grouped,Linear SVM,Emballonuridae,62
+Validation B.2 - Species Grouped,Linear SVM,Equidae,1
+Validation B.2 - Species Grouped,Linear SVM,Erethizontidae,5
+Validation B.2 - Species Grouped,Linear SVM,Erinaceidae,2
+Validation B.2 - Species Grouped,Linear SVM,Eschrichtiidae,1
+Validation B.2 - Species Grouped,Linear SVM,Geomyidae,5
+Validation B.2 - Species Grouped,Linear SVM,Heteromyidae,29
+Validation B.2 - Species Grouped,Linear SVM,Hippopotamidae,1
+Validation B.2 - Species Grouped,Linear SVM,Hipposideridae,11
+Validation B.2 - Species Grouped,Linear SVM,Hystricidae,5
+Validation B.2 - Species Grouped,Linear SVM,Indridae,8
+Validation B.2 - Species Grouped,Linear SVM,Iniidae,1
+Validation B.2 - Species Grouped,Linear SVM,Lemuridae,1
+Validation B.2 - Species Grouped,Linear SVM,Leporidae,4
+Validation B.2 - Species Grouped,Linear SVM,Macropodidae,5
+Validation B.2 - Species Grouped,Linear SVM,Macroscelididae,1
+Validation B.2 - Species Grouped,Linear SVM,Molossidae,13
+Validation B.2 - Species Grouped,Linear SVM,Muridae,28
+Validation B.2 - Species Grouped,Linear SVM,Mustelidae,6
+Validation B.2 - Species Grouped,Linear SVM,Nesomyidae,2
+Validation B.2 - Species Grouped,Linear SVM,Notoryctidae,1
+Validation B.2 - Species Grouped,Linear SVM,Ochotonidae,3
+Validation B.2 - Species Grouped,Linear SVM,Petauridae,12
+Validation B.2 - Species Grouped,Linear SVM,Phyllostomidae,10
+Validation B.2 - Species Grouped,Linear SVM,Platacanthomyidae,1
+Validation B.2 - Species Grouped,Linear SVM,Procyonidae,9
+Validation B.2 - Species Grouped,Linear SVM,Pteropodidae,7
+Validation B.2 - Species Grouped,Linear SVM,Rhinolophidae,29
+Validation B.2 - Species Grouped,Linear SVM,Sciuridae,34
+Validation B.2 - Species Grouped,Linear SVM,Soricidae,3
+Validation B.2 - Species Grouped,Linear SVM,Talpidae,1
+Validation B.2 - Species Grouped,Linear SVM,Tapiridae,1
+Validation B.2 - Species Grouped,Linear SVM,Thryonomyidae,1
+Validation B.2 - Species Grouped,Linear SVM,Vespertilionidae,90
+Validation B.2 - Species Grouped,Linear SVM,Viverridae,1
+Validation B.2 - Species Grouped,Logistic Regression,Balaenidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Bovidae,8
+Validation B.2 - Species Grouped,Logistic Regression,Caenolestidae,5
+Validation B.2 - Species Grouped,Logistic Regression,Cebidae,4
+Validation B.2 - Species Grouped,Logistic Regression,Cercopithecidae,3
+Validation B.2 - Species Grouped,Logistic Regression,Cervidae,65
+Validation B.2 - Species Grouped,Logistic Regression,Chlamyphoridae,1
+Validation B.2 - Species Grouped,Logistic Regression,Cricetidae,43
+Validation B.2 - Species Grouped,Logistic Regression,Dasypodidae,20
+Validation B.2 - Species Grouped,Logistic Regression,Dasyuridae,9
+Validation B.2 - Species Grouped,Logistic Regression,Didelphidae,25
+Validation B.2 - Species Grouped,Logistic Regression,Dipodidae,34
+Validation B.2 - Species Grouped,Logistic Regression,Echimyidae,10
+Validation B.2 - Species Grouped,Logistic Regression,Emballonuridae,10
+Validation B.2 - Species Grouped,Logistic Regression,Equidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Erethizontidae,11
+Validation B.2 - Species Grouped,Logistic Regression,Erinaceidae,3
+Validation B.2 - Species Grouped,Logistic Regression,Eschrichtiidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Felidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Geomyidae,15
+Validation B.2 - Species Grouped,Logistic Regression,Heteromyidae,23
+Validation B.2 - Species Grouped,Logistic Regression,Hipposideridae,13
+Validation B.2 - Species Grouped,Logistic Regression,Hylobatidae,2
+Validation B.2 - Species Grouped,Logistic Regression,Iniidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Leporidae,6
+Validation B.2 - Species Grouped,Logistic Regression,Lorisidae,2
+Validation B.2 - Species Grouped,Logistic Regression,Macropodidae,9
+Validation B.2 - Species Grouped,Logistic Regression,Molossidae,28
+Validation B.2 - Species Grouped,Logistic Regression,Muridae,234
+Validation B.2 - Species Grouped,Logistic Regression,Mustelidae,2
+Validation B.2 - Species Grouped,Logistic Regression,Nesomyidae,10
+Validation B.2 - Species Grouped,Logistic Regression,Ochotonidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Phyllostomidae,27
+Validation B.2 - Species Grouped,Logistic Regression,Physeteridae,1
+Validation B.2 - Species Grouped,Logistic Regression,Pitheciidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Procyonidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Pteropodidae,15
+Validation B.2 - Species Grouped,Logistic Regression,Rhinolophidae,10
+Validation B.2 - Species Grouped,Logistic Regression,Sciuridae,92
+Validation B.2 - Species Grouped,Logistic Regression,Soricidae,23
+Validation B.2 - Species Grouped,Logistic Regression,Spalacidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Talpidae,2
+Validation B.2 - Species Grouped,Logistic Regression,Tenrecidae,1
+Validation B.2 - Species Grouped,Logistic Regression,Vespertilionidae,236
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Bovidae,14
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Caenolestidae,2
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Cercopithecidae,7
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Cervidae,1
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Cricetidae,107
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Dasypodidae,101
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Dasyuridae,369
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Didelphidae,15
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Dipodidae,13
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Echimyidae,21
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Emballonuridae,2
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Erinaceidae,3
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Eupleridae,1
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Felidae,67
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Galagidae,1
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Geomyidae,50
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Heteromyidae,5
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Hipposideridae,92
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Indridae,28
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Lemuridae,1
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Lorisidae,1
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Macropodidae,5
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Molossidae,27
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Muridae,103
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Mustelidae,137
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Nesomyidae,2
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Ochotonidae,18
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Phalangeridae,4
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Phocidae,72
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Phyllostomidae,90
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Pitheciidae,4
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Platacanthomyidae,32
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Procyonidae,3
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Pteropodidae,139
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Rhinolophidae,13
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Sciuridae,96
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Soricidae,1
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Talpidae,28
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Tarsiidae,1
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Tragulidae,9
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Trichechidae,3
+Validation B.2 - Species Grouped,Multinomial Naive Bayes,Vespertilionidae,799
+Validation B.2 - Species Grouped,Random Forest,Acrobatidae,1
+Validation B.2 - Species Grouped,Random Forest,Anomaluridae,7
+Validation B.2 - Species Grouped,Random Forest,Bovidae,97
+Validation B.2 - Species Grouped,Random Forest,Calomyscidae,3
+Validation B.2 - Species Grouped,Random Forest,Camelidae,1
+Validation B.2 - Species Grouped,Random Forest,Cebidae,1
+Validation B.2 - Species Grouped,Random Forest,Cercopithecidae,48
+Validation B.2 - Species Grouped,Random Forest,Cervidae,8
+Validation B.2 - Species Grouped,Random Forest,Cheirogaleidae,1
+Validation B.2 - Species Grouped,Random Forest,Chinchillidae,6
+Validation B.2 - Species Grouped,Random Forest,Chlamyphoridae,7
+Validation B.2 - Species Grouped,Random Forest,Chrysochloridae,6
+Validation B.2 - Species Grouped,Random Forest,Cricetidae,78
+Validation B.2 - Species Grouped,Random Forest,Cuniculidae,13
+Validation B.2 - Species Grouped,Random Forest,Cyclopedidae,1
+Validation B.2 - Species Grouped,Random Forest,Dasypodidae,23
+Validation B.2 - Species Grouped,Random Forest,Dasyuridae,2
+Validation B.2 - Species Grouped,Random Forest,Didelphidae,3
+Validation B.2 - Species Grouped,Random Forest,Dipodidae,1
+Validation B.2 - Species Grouped,Random Forest,Echimyidae,3
+Validation B.2 - Species Grouped,Random Forest,Elephantidae,1
+Validation B.2 - Species Grouped,Random Forest,Equidae,1
+Validation B.2 - Species Grouped,Random Forest,Erinaceidae,6
+Validation B.2 - Species Grouped,Random Forest,Eupleridae,3
+Validation B.2 - Species Grouped,Random Forest,Felidae,24
+Validation B.2 - Species Grouped,Random Forest,Geomyidae,93
+Validation B.2 - Species Grouped,Random Forest,Giraffidae,2
+Validation B.2 - Species Grouped,Random Forest,Hippopotamidae,1
+Validation B.2 - Species Grouped,Random Forest,Hipposideridae,68
+Validation B.2 - Species Grouped,Random Forest,Hyaenidae,1
+Validation B.2 - Species Grouped,Random Forest,Hylobatidae,1
+Validation B.2 - Species Grouped,Random Forest,Indridae,2
+Validation B.2 - Species Grouped,Random Forest,Lemuridae,7
+Validation B.2 - Species Grouped,Random Forest,Leporidae,3
+Validation B.2 - Species Grouped,Random Forest,Lorisidae,7
+Validation B.2 - Species Grouped,Random Forest,Macropodidae,13
+Validation B.2 - Species Grouped,Random Forest,Megaladapidae,4
+Validation B.2 - Species Grouped,Random Forest,Molossidae,7
+Validation B.2 - Species Grouped,Random Forest,Muridae,162
+Validation B.2 - Species Grouped,Random Forest,Mustelidae,8
+Validation B.2 - Species Grouped,Random Forest,Mystacinidae,2
+Validation B.2 - Species Grouped,Random Forest,Nandiniidae,3
+Validation B.2 - Species Grouped,Random Forest,Neobalaenidae,5
+Validation B.2 - Species Grouped,Random Forest,Notoryctidae,1
+Validation B.2 - Species Grouped,Random Forest,Ochotonidae,14
+Validation B.2 - Species Grouped,Random Forest,Octodontidae,4
+Validation B.2 - Species Grouped,Random Forest,Ornithorhynchidae,1
+Validation B.2 - Species Grouped,Random Forest,Orycteropodidae,2
+Validation B.2 - Species Grouped,Random Forest,Otariidae,1
+Validation B.2 - Species Grouped,Random Forest,Paleopropithecidae,11
+Validation B.2 - Species Grouped,Random Forest,Petauridae,2
+Validation B.2 - Species Grouped,Random Forest,Phalangeridae,12
+Validation B.2 - Species Grouped,Random Forest,Phyllostomidae,32
+Validation B.2 - Species Grouped,Random Forest,Platacanthomyidae,1
+Validation B.2 - Species Grouped,Random Forest,Platanistidae,1
+Validation B.2 - Species Grouped,Random Forest,Pseudocheiridae,5
+Validation B.2 - Species Grouped,Random Forest,Pteropodidae,26
+Validation B.2 - Species Grouped,Random Forest,Rhinocerotidae,2
+Validation B.2 - Species Grouped,Random Forest,Rhinolophidae,16
+Validation B.2 - Species Grouped,Random Forest,Rhinopomatidae,70
+Validation B.2 - Species Grouped,Random Forest,Sciuridae,5
+Validation B.2 - Species Grouped,Random Forest,Soricidae,64
+Validation B.2 - Species Grouped,Random Forest,Talpidae,2
+Validation B.2 - Species Grouped,Random Forest,Tarsipedidae,6
+Validation B.2 - Species Grouped,Random Forest,Thryonomyidae,10
+Validation B.2 - Species Grouped,Random Forest,Thylacomyidae,2
+Validation B.2 - Species Grouped,Random Forest,Tragulidae,2
+Validation B.2 - Species Grouped,Random Forest,Tupaiidae,1
+Validation B.2 - Species Grouped,Random Forest,Vespertilionidae,812

@@ -1,0 +1,224 @@
+validation,actual_family,predicted_family,error_count,actual_support,pair_error_rate_percentage
+Validation A - Random,Acrobatidae,Hipposideridae,1,1,100.0
+Validation A - Random,Anomaluridae,Thryonomyidae,1,1,100.0
+Validation A - Random,Antilocapridae,Bovidae,1,1,100.0
+Validation A - Random,Cheirogaleidae,Erinaceidae,1,1,100.0
+Validation A - Random,Chrysochloridae,Echimyidae,1,1,100.0
+Validation A - Random,Dugongidae,Cebidae,1,1,100.0
+Validation A - Random,Erethizontidae,Sciuridae,1,1,100.0
+Validation A - Random,Microbiotheriidae,Macropodidae,1,1,100.0
+Validation A - Random,Petauridae,Megaladapidae,1,1,100.0
+Validation A - Random,Phalangeridae,Peramelidae,1,1,100.0
+Validation A - Random,Phascolarctidae,Petauridae,1,1,100.0
+Validation A - Random,Tragulidae,Bovidae,1,1,100.0
+Validation A - Random,Pitheciidae,Atelidae,1,2,50.0
+Validation A - Random,Monodontidae,Iniidae,1,3,33.33333333333333
+Validation A - Random,Erinaceidae,Phyllostomidae,1,4,25.0
+Validation A - Random,Talpidae,Muridae,1,4,25.0
+Validation A - Random,Dasypodidae,Cricetidae,1,5,20.0
+Validation A - Random,Dasypodidae,Hipposideridae,1,5,20.0
+Validation A - Random,Dasypodidae,Muridae,1,5,20.0
+Validation A - Random,Dasyuridae,Didelphidae,1,5,20.0
+Validation A - Random,Procyonidae,Mustelidae,1,5,20.0
+Validation A - Random,Octodontidae,Echimyidae,1,9,11.11111111111111
+Validation A - Random,Spalacidae,Sciuridae,1,19,5.263157894736842
+Validation A - Random,Ochotonidae,Echimyidae,1,34,2.941176470588235
+Validation A - Random,Dipodidae,Gliridae,1,50,2.0
+Validation A - Random,Sciuridae,Cercopithecidae,1,66,1.5151515151515151
+Validation A - Random,Sciuridae,Lorisidae,1,66,1.5151515151515151
+Validation A - Random,Sciuridae,Pitheciidae,1,66,1.5151515151515151
+Validation A - Random,Emballonuridae,Canidae,1,82,1.2195121951219512
+Validation A - Random,Echimyidae,Heteromyidae,1,100,1.0
+Validation A - Random,Echimyidae,Vespertilionidae,1,100,1.0
+Validation A - Random,Heteromyidae,Muridae,1,204,0.49019607843137253
+Validation A - Random,Heteromyidae,Sciuridae,1,204,0.49019607843137253
+Validation A - Random,Bovidae,Muridae,1,257,0.38910505836575876
+Validation A - Random,Muridae,Rhinocerotidae,2,569,0.35149384885764495
+Validation A - Random,Soricidae,Cercopithecidae,1,334,0.29940119760479045
+Validation A - Random,Soricidae,Talpidae,1,334,0.29940119760479045
+Validation A - Random,Cricetidae,Heteromyidae,2,878,0.22779043280182232
+Validation A - Random,Muridae,Sciuridae,1,569,0.17574692442882248
+Validation A - Random,Phyllostomidae,Rhinolophidae,2,1491,0.1341381623071764
+Validation A - Random,Vespertilionidae,Noctilionidae,1,790,0.12658227848101267
+Validation A - Random,Vespertilionidae,Phyllostomidae,1,790,0.12658227848101267
+Validation A - Random,Vespertilionidae,Sciuridae,1,790,0.12658227848101267
+Validation A - Random,Vespertilionidae,Spalacidae,1,790,0.12658227848101267
+Validation A - Random,Cricetidae,Calomyscidae,1,878,0.11389521640091116
+Validation A - Random,Cricetidae,Chrysochloridae,1,878,0.11389521640091116
+Validation A - Random,Cricetidae,Erinaceidae,1,878,0.11389521640091116
+Validation A - Random,Cricetidae,Geomyidae,1,878,0.11389521640091116
+Validation A - Random,Cricetidae,Macroscelididae,1,878,0.11389521640091116
+Validation A - Random,Cricetidae,Muridae,1,878,0.11389521640091116
+Validation A - Random,Phyllostomidae,Sciuridae,1,1491,0.0670690811535882
+Validation B.1 - Duplicate Grouped,Phascolarctidae,Emballonuridae,2,2,100.0
+Validation B.1 - Duplicate Grouped,Acrobatidae,Hipposideridae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Anomaluridae,Cercopithecidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Caviidae,Cercopithecidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Cheirogaleidae,Lemuridae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Chrysochloridae,Sciuridae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Dugongidae,Tupaiidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Gliridae,Cheirogaleidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Microbiotheriidae,Macropodidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Orycteropodidae,Molossidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Petauridae,Peramelidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Phalangeridae,Peramelidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Physeteridae,Bovidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Tarsiidae,Cercopithecidae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Tragulidae,Dasyuridae,1,1,100.0
+Validation B.1 - Duplicate Grouped,Macroscelididae,Muridae,1,4,25.0
+Validation B.1 - Duplicate Grouped,Macroscelididae,Thryonomyidae,1,4,25.0
+Validation B.1 - Duplicate Grouped,Platacanthomyidae,Cricetidae,1,4,25.0
+Validation B.1 - Duplicate Grouped,Talpidae,Platacanthomyidae,1,4,25.0
+Validation B.1 - Duplicate Grouped,Moschidae,Cervidae,1,5,20.0
+Validation B.1 - Duplicate Grouped,Procyonidae,Mustelidae,1,5,20.0
+Validation B.1 - Duplicate Grouped,Thryonomyidae,Bovidae,1,6,16.666666666666664
+Validation B.1 - Duplicate Grouped,Emballonuridae,Hipposideridae,9,87,10.344827586206897
+Validation B.1 - Duplicate Grouped,Phocoenidae,Leporidae,1,10,10.0
+Validation B.1 - Duplicate Grouped,Sciuridae,Herpestidae,4,66,6.0606060606060606
+Validation B.1 - Duplicate Grouped,Spalacidae,Sciuridae,1,19,5.263157894736842
+Validation B.1 - Duplicate Grouped,Dipodidae,Muridae,2,50,4.0
+Validation B.1 - Duplicate Grouped,Ctenomyidae,Sciuridae,1,27,3.7037037037037033
+Validation B.1 - Duplicate Grouped,Hominidae,Phyllostomidae,1,33,3.0303030303030303
+Validation B.1 - Duplicate Grouped,Dipodidae,Rhinolophidae,1,50,2.0
+Validation B.1 - Duplicate Grouped,Sciuridae,Muridae,1,66,1.5151515151515151
+Validation B.1 - Duplicate Grouped,Emballonuridae,Vespertilionidae,1,87,1.1494252873563218
+Validation B.1 - Duplicate Grouped,Echimyidae,Cebidae,1,101,0.9900990099009901
+Validation B.1 - Duplicate Grouped,Pteropodidae,Rhinocerotidae,1,153,0.6535947712418301
+Validation B.1 - Duplicate Grouped,Pteropodidae,Sciuridae,1,153,0.6535947712418301
+Validation B.1 - Duplicate Grouped,Heteromyidae,Sciuridae,1,205,0.4878048780487805
+Validation B.1 - Duplicate Grouped,Cricetidae,Geomyidae,2,879,0.22753128555176336
+Validation B.1 - Duplicate Grouped,Muridae,Sciuridae,1,572,0.17482517482517482
+Validation B.1 - Duplicate Grouped,Phyllostomidae,Hipposideridae,2,1492,0.13404825737265416
+Validation B.1 - Duplicate Grouped,Vespertilionidae,Geomyidae,1,790,0.12658227848101267
+Validation B.1 - Duplicate Grouped,Vespertilionidae,Hipposideridae,1,790,0.12658227848101267
+Validation B.1 - Duplicate Grouped,Cricetidae,Chrysochloridae,1,879,0.11376564277588168
+Validation B.1 - Duplicate Grouped,Cricetidae,Erinaceidae,1,879,0.11376564277588168
+Validation B.1 - Duplicate Grouped,Cricetidae,Galagidae,1,879,0.11376564277588168
+Validation B.1 - Duplicate Grouped,Cricetidae,Heteromyidae,1,879,0.11376564277588168
+Validation B.1 - Duplicate Grouped,Cricetidae,Hipposideridae,1,879,0.11376564277588168
+Validation B.1 - Duplicate Grouped,Cricetidae,Muridae,1,879,0.11376564277588168
+Validation B.2 - Species Grouped,Macroscelididae,Cricetidae,5,5,100.0
+Validation B.2 - Species Grouped,Burramyidae,Sciuridae,2,2,100.0
+Validation B.2 - Species Grouped,Tragulidae,Bovidae,2,2,100.0
+Validation B.2 - Species Grouped,Acrobatidae,Hipposideridae,1,1,100.0
+Validation B.2 - Species Grouped,Cheirogaleidae,Erinaceidae,1,1,100.0
+Validation B.2 - Species Grouped,Chrysochloridae,Tapiridae,1,1,100.0
+Validation B.2 - Species Grouped,Giraffidae,Cricetidae,1,1,100.0
+Validation B.2 - Species Grouped,Gliridae,Heteromyidae,1,1,100.0
+Validation B.2 - Species Grouped,Peramelidae,Sciuridae,1,1,100.0
+Validation B.2 - Species Grouped,Petauridae,Geomyidae,1,1,100.0
+Validation B.2 - Species Grouped,Phalangeridae,Macropodidae,1,1,100.0
+Validation B.2 - Species Grouped,Talpidae,Muridae,9,12,75.0
+Validation B.2 - Species Grouped,Lepilemuridae,Indridae,8,11,72.72727272727273
+Validation B.2 - Species Grouped,Ziphiidae,Heteromyidae,20,30,66.66666666666666
+Validation B.2 - Species Grouped,Castoridae,Procyonidae,6,9,66.66666666666666
+Validation B.2 - Species Grouped,Thyropteridae,Emballonuridae,16,25,64.0
+Validation B.2 - Species Grouped,Megadermatidae,Phyllostomidae,9,16,56.25
+Validation B.2 - Species Grouped,Octodontidae,Cricetidae,19,34,55.88235294117647
+Validation B.2 - Species Grouped,Moschidae,Bovidae,13,24,54.166666666666664
+Validation B.2 - Species Grouped,Emballonuridae,Vespertilionidae,41,101,40.5940594059406
+Validation B.2 - Species Grouped,Herpestidae,Cricetidae,4,10,40.0
+Validation B.2 - Species Grouped,Herpestidae,Hipposideridae,4,10,40.0
+Validation B.2 - Species Grouped,Spalacidae,Petauridae,7,19,36.84210526315789
+Validation B.2 - Species Grouped,Manidae,Bovidae,5,14,35.714285714285715
+Validation B.2 - Species Grouped,Procaviidae,Cricetidae,1,3,33.33333333333333
+Validation B.2 - Species Grouped,Procaviidae,Ochotonidae,1,3,33.33333333333333
+Validation B.2 - Species Grouped,Spalacidae,Sciuridae,6,19,31.57894736842105
+Validation B.2 - Species Grouped,Potoroidae,Geomyidae,4,13,30.76923076923077
+Validation B.2 - Species Grouped,Potoroidae,Pteropodidae,4,13,30.76923076923077
+Validation B.2 - Species Grouped,Calomyscidae,Cricetidae,8,31,25.806451612903224
+Validation B.2 - Species Grouped,Erinaceidae,Phyllostomidae,1,4,25.0
+Validation B.2 - Species Grouped,Myrmecophagidae,Caenolestidae,1,4,25.0
+Validation B.2 - Species Grouped,Dipodidae,Sciuridae,12,52,23.076923076923077
+Validation B.2 - Species Grouped,Sciuridae,Rhinolophidae,15,66,22.727272727272727
+Validation B.2 - Species Grouped,Castoridae,Hipposideridae,2,9,22.22222222222222
+Validation B.2 - Species Grouped,Hominidae,Cercopithecidae,9,42,21.428571428571427
+Validation B.2 - Species Grouped,Thyropteridae,Cercopithecidae,5,25,20.0
+Validation B.2 - Species Grouped,Megadermatidae,Vespertilionidae,3,16,18.75
+Validation B.2 - Species Grouped,Potoroidae,Macropodidae,2,13,15.384615384615385
+Validation B.2 - Species Grouped,Procyonidae,Hipposideridae,3,20,15.0
+Validation B.2 - Species Grouped,Octodontidae,Sciuridae,5,34,14.705882352941178
+Validation B.2 - Species Grouped,Manidae,Heteromyidae,2,14,14.285714285714285
+Validation B.2 - Species Grouped,Natalidae,Molossidae,2,14,14.285714285714285
+Validation B.2 - Species Grouped,Heteromyidae,Emballonuridae,28,224,12.5
+Validation B.2 - Species Grouped,Megadermatidae,Rhinolophidae,2,16,12.5
+Validation B.2 - Species Grouped,Octodontidae,Echimyidae,4,34,11.76470588235294
+Validation B.2 - Species Grouped,Castoridae,Hippopotamidae,1,9,11.11111111111111
+Validation B.2 - Species Grouped,Emballonuridae,Aotidae,11,101,10.891089108910892
+Validation B.2 - Species Grouped,Spalacidae,Anomaluridae,2,19,10.526315789473683
+Validation B.2 - Species Grouped,Spalacidae,Echimyidae,2,19,10.526315789473683
+Validation B.2 - Species Grouped,Herpestidae,Dasyuridae,1,10,10.0
+Validation B.2 - Species Grouped,Herpestidae,Mustelidae,1,10,10.0
+Validation B.2 - Species Grouped,Tupaiidae,Cricetidae,4,43,9.30232558139535
+Validation B.2 - Species Grouped,Tupaiidae,Heteromyidae,4,43,9.30232558139535
+Validation B.2 - Species Grouped,Lepilemuridae,Dasyuridae,1,11,9.090909090909092
+Validation B.2 - Species Grouped,Lepilemuridae,Lemuridae,1,11,9.090909090909092
+Validation B.2 - Species Grouped,Talpidae,Molossidae,1,12,8.333333333333332
+Validation B.2 - Species Grouped,Talpidae,Thryonomyidae,1,12,8.333333333333332
+Validation B.2 - Species Grouped,Potoroidae,Didelphidae,1,13,7.6923076923076925
+Validation B.2 - Species Grouped,Potoroidae,Emballonuridae,1,13,7.6923076923076925
+Validation B.2 - Species Grouped,Geomyidae,Cricetidae,5,72,6.944444444444445
+Validation B.2 - Species Grouped,Dasyuridae,Cercopithecidae,1,16,6.25
+Validation B.2 - Species Grouped,Dasyuridae,Macropodidae,1,16,6.25
+Validation B.2 - Species Grouped,Megadermatidae,Soricidae,1,16,6.25
+Validation B.2 - Species Grouped,Spalacidae,Leporidae,1,19,5.263157894736842
+Validation B.2 - Species Grouped,Procyonidae,Mustelidae,1,20,5.0
+Validation B.2 - Species Grouped,Tupaiidae,Dipodidae,2,43,4.651162790697675
+Validation B.2 - Species Grouped,Tupaiidae,Echimyidae,2,43,4.651162790697675
+Validation B.2 - Species Grouped,Soricidae,Emballonuridae,14,335,4.179104477611941
+Validation B.2 - Species Grouped,Moschidae,Cervidae,1,24,4.166666666666666
+Validation B.2 - Species Grouped,Ziphiidae,Muridae,1,30,3.3333333333333335
+Validation B.2 - Species Grouped,Phocidae,Emballonuridae,2,62,3.225806451612903
+Validation B.2 - Species Grouped,Phyllostomidae,Vespertilionidae,44,1512,2.91005291005291
+Validation B.2 - Species Grouped,Ursidae,Mustelidae,4,143,2.797202797202797
+Validation B.2 - Species Grouped,Phocoenidae,Leporidae,1,39,2.564102564102564
+Validation B.2 - Species Grouped,Tupaiidae,Vespertilionidae,1,43,2.3255813953488373
+Validation B.2 - Species Grouped,Heteromyidae,Hystricidae,5,224,2.232142857142857
+Validation B.2 - Species Grouped,Heteromyidae,Muridae,5,224,2.232142857142857
+Validation B.2 - Species Grouped,Heteromyidae,Petauridae,5,224,2.232142857142857
+Validation B.2 - Species Grouped,Heteromyidae,Sciuridae,5,224,2.232142857142857
+Validation B.2 - Species Grouped,Dipodidae,Rhinolophidae,1,52,1.9230769230769231
+Validation B.2 - Species Grouped,Leporidae,Dipodidae,1,64,1.5625
+Validation B.2 - Species Grouped,Leporidae,Procyonidae,1,64,1.5625
+Validation B.2 - Species Grouped,Heteromyidae,Dipodidae,3,224,1.3392857142857142
+Validation B.2 - Species Grouped,Heteromyidae,Erethizontidae,3,224,1.3392857142857142
+Validation B.2 - Species Grouped,Heteromyidae,Molossidae,3,224,1.3392857142857142
+Validation B.2 - Species Grouped,Cricetidae,Muridae,13,1098,1.1839708561020037
+Validation B.2 - Species Grouped,Vespertilionidae,Rhinolophidae,10,969,1.0319917440660475
+Validation B.2 - Species Grouped,Emballonuridae,Procyonidae,1,101,0.9900990099009901
+Validation B.2 - Species Grouped,Emballonuridae,Rhinolophidae,1,101,0.9900990099009901
+Validation B.2 - Species Grouped,Didelphidae,Soricidae,1,111,0.9009009009009009
+Validation B.2 - Species Grouped,Didelphidae,Viverridae,1,111,0.9009009009009009
+Validation B.2 - Species Grouped,Heteromyidae,Cricetidae,2,224,0.8928571428571428
+Validation B.2 - Species Grouped,Heteromyidae,Leporidae,2,224,0.8928571428571428
+Validation B.2 - Species Grouped,Vespertilionidae,Molossidae,7,969,0.7223942208462332
+Validation B.2 - Species Grouped,Ursidae,Canidae,1,143,0.6993006993006993
+Validation B.2 - Species Grouped,Rhinolophidae,Iniidae,1,153,0.6535947712418301
+Validation B.2 - Species Grouped,Hipposideridae,Equidae,1,159,0.628930817610063
+Validation B.2 - Species Grouped,Hipposideridae,Macropodidae,1,159,0.628930817610063
+Validation B.2 - Species Grouped,Balaenopteridae,Eschrichtiidae,1,169,0.591715976331361
+Validation B.2 - Species Grouped,Heteromyidae,Cervidae,1,224,0.4464285714285714
+Validation B.2 - Species Grouped,Heteromyidae,Erinaceidae,1,224,0.4464285714285714
+Validation B.2 - Species Grouped,Pteropodidae,Nesomyidae,1,234,0.4273504273504274
+Validation B.2 - Species Grouped,Pteropodidae,Ochotonidae,1,234,0.4273504273504274
+Validation B.2 - Species Grouped,Pteropodidae,Procyonidae,1,234,0.4273504273504274
+Validation B.2 - Species Grouped,Cricetidae,Dipodidae,4,1098,0.36429872495446264
+Validation B.2 - Species Grouped,Muridae,Pteropodidae,2,577,0.34662045060658575
+Validation B.2 - Species Grouped,Muridae,Sciuridae,2,577,0.34662045060658575
+Validation B.2 - Species Grouped,Echimyidae,Cricetidae,1,325,0.3076923076923077
+Validation B.2 - Species Grouped,Soricidae,Macroscelididae,1,335,0.2985074626865672
+Validation B.2 - Species Grouped,Soricidae,Pteropodidae,1,335,0.2985074626865672
+Validation B.2 - Species Grouped,Bovidae,Sciuridae,1,384,0.26041666666666663
+Validation B.2 - Species Grouped,Cricetidae,Bovidae,2,1098,0.18214936247723132
+Validation B.2 - Species Grouped,Cricetidae,Heteromyidae,2,1098,0.18214936247723132
+Validation B.2 - Species Grouped,Muridae,Talpidae,1,577,0.17331022530329288
+Validation B.2 - Species Grouped,Phyllostomidae,Erethizontidae,2,1512,0.13227513227513227
+Validation B.2 - Species Grouped,Vespertilionidae,Emballonuridae,1,969,0.10319917440660474
+Validation B.2 - Species Grouped,Vespertilionidae,Hipposideridae,1,969,0.10319917440660474
+Validation B.2 - Species Grouped,Vespertilionidae,Soricidae,1,969,0.10319917440660474
+Validation B.2 - Species Grouped,Cricetidae,Nesomyidae,1,1098,0.09107468123861566
+Validation B.2 - Species Grouped,Cricetidae,Notoryctidae,1,1098,0.09107468123861566
+Validation B.2 - Species Grouped,Cricetidae,Ochotonidae,1,1098,0.09107468123861566
+Validation B.2 - Species Grouped,Cricetidae,Vespertilionidae,1,1098,0.09107468123861566
+Validation B.2 - Species Grouped,Phyllostomidae,Echimyidae,1,1512,0.06613756613756613
+Validation B.2 - Species Grouped,Phyllostomidae,Platacanthomyidae,1,1512,0.06613756613756613
